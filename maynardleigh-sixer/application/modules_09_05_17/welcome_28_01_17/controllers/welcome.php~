@@ -1,0 +1,36 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+
+class Welcome extends ITFS_Front_Controller {
+    function __construct()
+    {
+        parent::__construct();
+        $this->load->model('welcomes');    
+        $this->load->model('order/orders');    
+        $this->load->model('document/documents');    
+        $this->load->model('transport/transports');    
+        $this->load->model('diagnose/diagnoses');    
+        $this->load->model('design/designs');    
+        $this->load->model('delivery/deliveries');    
+        $this->load->model('discovery/discoveries');
+        $this->load->library('pagination');    
+        $this->load->model('user/users');    
+    }
+
+    function index() 
+    {
+         
+         $this->template->build('index');
+    }
+   
+    public function myinfo(){
+
+       $userid=$this->auth->getUserId(); 
+
+       $data['getinfo']=$this->welcomes->getdetail($userid);
+
+       $this->load->view('myinfo',$data);  
+    }
+
+    
+}
+?>

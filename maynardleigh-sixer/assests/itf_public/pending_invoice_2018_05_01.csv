@@ -1,0 +1,1009 @@
+Sl. No.,Client Name,Order type,Start Date,End Date,Order Id,Delivery Id,Product Name,Sub Product Name,Location Name,Internal Key,Invoice No
+1,Genpact India Private Limited,Diagnose,2017/12/22,2017/12/22,1201163,111,Diagnosis  Full day ,Diversity,MLA Office,111#163
+2,Max Healthcare Institute Limited,Diagnose,2017/12/15,2017/12/15,0612154,104,Diagnosis  Full day ,JUICE,Gurgaon,104#154
+3,Max Healthcare Institute Limited,Diagnose,2017/12/13,2017/12/13,0612154,103,Diagnosis  Full day ,JUICE,Saket,103#154
+4,MaxLife Insurance Company Ltd.,Diagnose,2017/11/27,2017/11/27,1711143,99,Diagnosis  Full day ,JUICE,Gurgaon,99#143
+5,IDFC Asset Management Company Ltd,Diagnose,2017/11/24,2017/11/24,2011146,101,Diagnosis half a day ,Leading your team,On Call,101#146
+6,Edelweiss Financial Services Ltd.,Diagnose,2017/11/23,2017/11/23,0811140,95,Diagnosis  Full day ,Psychology of Peak Perfomance,Delhi NCR,95#140
+7,MaxLife Insurance Company Ltd.,Diagnose,2017/11/23,2017/11/23,1711143,98,Diagnosis  Full day ,JUICE,Gurgaon,98#143
+8,MaxLife Insurance Company Ltd.,Diagnose,2017/11/20,2017/11/20,1711144,100,Diagnosis  Full day ,JUICE,Gurgaon,100#144
+9,EY,Diagnose,2017/11/15,2017/11/15,1611142,97,Diagnosis  Full day ,JUICE,On Call,97#142
+10,Nestle India Limited,Diagnose,2017/11/14,2017/11/14,1010131,91,Diagnosis half a day ,Communicating with Impact,Client sight,91#131
+11,Max Healthcare Institute Limited,Diagnose,2017/11/02,2017/11/02,0911141,96,Diagnosis  Full day ,JUICE,Max hospitals saket,96#141
+12,Expedia Inc ,Diagnose,2017/10/25,2017/10/25,2310133,92,Diagnosis half a day ,Harassment ,Gurgaon,92#133
+13,Edelweiss Financial Services Ltd.,Diagnose,2017/10/25,2017/10/25,2410134,93,Diagnosis half a day ,Personal Impact,Delhi NCR,93#134
+14,Sopra India Pvt. Ltd.,Diagnose,2017/10/11,2017/10/18,0910130,89,Customised Pre- assesment Meter,Leading your team,Office,89#130
+15,Sopra India Pvt. Ltd.,Diagnose,2017/10/17,2017/10/17,0910130,90,Diagnosis half a day ,Leading your team,Office,90#130
+16,GlaxoSmithKline,Diagnose,2017/10/09,2017/10/09,0610129,88,Diagnosis half a day ,JUICE,Office,88#129
+17,MaxLife Insurance Company Ltd.,Diagnose,2017/10/04,2017/10/04,0410127,86,Diagnosis  Full day ,JUICE,Office,86#127
+18,GlaxoSmithKline,Diagnose,2017/09/29,2017/09/29,2709125,85,Diagnosis half a day ,Personal Impact,Office,85#125
+19,Genpact India Private Limited,Diagnose,2017/09/20,2017/09/20,2811150,102,Diagnosis  Full day ,Diversity,Genpact Office Phase V,102#150
+20,Rio Tinto India Pvt Ltd,Diagnose,2017/09/19,2017/09/19,1909117,82,Diagnosis  Full day ,Reaching Your Peak,Office / WebEx,82#117
+21,SRF Ltd.,Diagnose,2017/09/07,2017/09/07,0609111,80,Diagnosis half a day ,JUICE,Gurgaon,80#111
+22,Edelweiss Financial Services Ltd.,Diagnose,2017/09/05,2017/09/05,1509115,83,Diagnosis half a day ,Networking Skills,Office,83#115
+23,Rio Tinto India Pvt Ltd,Diagnose,2017/08/25,2017/08/25,2508104,78,Diagnosis half a day ,ACE Team,Gurgaon,78#104
+24,Edelweiss Financial Services Ltd.,Diagnose,2017/08/08,2017/08/08,180790,77,Diagnosis half a day ,Commitment & Drive,Delhi,77#90
+25,Edelweiss Financial Services Ltd.,Diagnose,2017/08/08,2017/08/08,1909119,84,Diagnosis half a day ,Emerging Leaders Journey - Commitment & Drive,Delhi NCR,84#119
+26,HSBC Operations,Diagnose,2017/08/04,2017/08/04,280794,76,Diagnosis half a day ,Line Managers,Hyderabad,76#94
+27,Soprasteria India Pvt Ltd,Diagnose,2017/07/24,2017/07/25,170788,67,Communication Thermometer ,Building Your Team,noida,67#88
+28,Coca Cola India Private Limited,Diagnose,2017/07/24,2017/07/25,170789,66,Communication Thermometer ,Book,noida,66#89
+29,Coca Cola India Private Limited,Diagnose,2017/07/17,2017/07/19,160675,74,Customised Pre- assesment Meter,Cards,noida,74#75
+30,Coca Cola India Private Limited,Diagnose,2017/07/19,2017/07/19,120782,53,Diagnosis half a day ,Reaching Your Peak,MLA office,53#82
+31,Maynardleigh Associates,Diagnose,2017/07/19,2017/07/19,140786,65,Communication Thermometer ,Book,noida,65#86
+32,Ericsson India Private Limited,Diagnose,2017/07/12,2017/07/12,070780,55,Diagnosis  Full day ,Impact And Influence,Gurgaon,55#80
+33,Groz Engineering Tools (P) Ltd., Groz Net Industries,Diagnose,2017/07/11,2017/07/11,100781,54,Diagnosis half a day ,Connecting with Clients,MLA office,54#81
+34,HSBC Global Financial Centre,Diagnose,2017/07/11,2017/07/11,130785,57,Diagnosis half a day ,Pause  Align & Act,Delhi NCR,57#85
+35,Pearson India Education Services Pvt Ltd,Diagnose,2017/06/27,2017/06/27,140673,52,Diagnosis half a day ,People Manager,Noida,52#73
+36,Delhivery,Diagnose,2017/06/20,2017/06/20,150674,48,Diagnosis  Full day ,Vital leader,Gurgaon,48#74
+37,Confederation of Indian Industry,Diagnose,2017/06/08,2017/06/08,150563,46,Profile Personal Impact ,Executive Presence,Gurgaon,46#63
+38,Confederation of Indian Industry,Diagnose,2017/06/06,2017/06/06,150563,45,Diagnosis half a day ,Executive Presence,Gurgaon,45#63
+39,Penguin Random House India Pvt Ltd,Diagnose,2017/05/15,2017/05/15,100560,44,Diagnosis half a day ,Communicating with Impact,Delhi NCR,44#60
+40,Dunnhumby IT Services India Pvt. Ltd,Diagnose,2017/05/09,2017/05/09,280459,47,Diagnosis half a day ,Experiential Facilitator,Delhi,47#59
+41,Genpact India Private Limited,Diagnose,2017/03/15,2017/03/15,140348,43,Diagnosis  Full day ,Impact And Influence,Hauz Khas MLA Office,43#48
+42,Pernod Ricard India (P) Limited,Diagnose,2017/03/06,2017/03/06,060345,42,Diagnosis  Full day ,Collaboration,Gurgaon,42#45
+43,Genpact India Private Limited,Diagnose,2017/03/01,2017/03/01,050778,56,Diagnosis  Full day ,Impact And Influence,Gurgaon,56#78
+44,MaxLife Insurance Company Ltd.,Diagnose,2017/02/14,2017/02/14,140241,41,Diagnosis half a day ,Change Management,Hauz Khas MLA Office,41#41
+45,Genpact India Private Limited,Diagnose,2017/02/01,2017/02/02,090130,35,,Personal Impact,Office,35#30
+46,FIL Research India Private Limited,Diagnose,2017/01/30,2017/01/30,140242,40,Diagnosis half a day ,Diversity,Hauz Khas MLA Office,40#42
+47,HSBC Global Financial Centre,Diagnose,2017/01/25,2017/01/25,100132,34,Diagnosis  Full day ,Leading your team,Delhi,34#32
+48,RBS,Diagnose,2017/01/19,2017/01/19,170133,36,Diagnosis half a day ,ACE Team,Over the phone,36#33
+49,Penguin Random House India Pvt Ltd,Diagnose,2016/09/20,2016/09/20,080238,39,,Personal Impact,Delhi,39#38
+50,Penguin Random House India Pvt Ltd,Diagnose,2016/09/18,2016/09/18,080238,38,Diagnosis  Full day ,The Leadership Journey,Gurgaon,38#38
+51,Soprasteria India Pvt Ltd,Diagnose,12/23/2016,12/23/2016,040125,30,Diagnosis  Full day ,Personal Impact,Hauz Khas MLA Office,30#25
+52,Dunnhumby IT Services India Pvt. Ltd,Diagnose,12/19/2016,12/19/2016,040127,32,Diagnosis half a day ,Interviewing Skills,Phone,32#27
+53,Max Healthcare Institute Limited,Diagnose,11/30/2016,11/30/2016,241112,22,Diagnosis  Full day ,Team Building,Gurgaon/ Saket,22#12
+54,American Express India Private Limited,Diagnose,11/23/2016,11/24/2016,221107,24,Diagnosis half a day ,Impact And Influence,Gurgaon,24#7
+55,SRF Ltd.,Diagnose,10/27/2016,10/29/2016,040454,16,Diagnosis  Full day ,Dramatic shift,noida,16#54
+56,Genpact India Private Limited,Diagnose,10/11/2016,10/17/2016,140349,7,Customised Pre- assesment Meter,Leading the way,noida,7#49
+57,Genpact India Private Limited,Diagnose,10/10/2016,10/12/2016,140349,8,Care Thermometer,Leading your team,noida,8#49
+58,SRF Ltd.,Diagnose,08/16/2016,08/16/2016,281113,23,Diagnosis  Full day ,Leading your team,Gurgaon,23#13
+59,Edelweiss Financial Services Ltd.,Diagnose,02/06/2017,02/06/2017,291224,29,Diagnosis  Full day ,Collaboration,Dubai,29#24
+60,SRF Ltd.,Diagnose,01/18/2017,01/19/2017,291223,28,Profile Ace Teams,,Gurgaon,28#23
+61,Genpact India Private Limited,Diagnose,01/16/2017,01/17/2017,090130,33,Diagnosis  Full day ,Personal Impact,Gurgaon,33#30
+62,Nangia & Company,Diagnose,01/05/2017,01/05/2017,281222,25,Diagnosis  Full day ,Team Building,Noida,25#22
+63,SRF Ltd.,Diagnose,01/05/2017,01/05/2017,291223,26,Diagnosis  Full day ,,Gurgaon,26#23
+64,Soprasteria India Pvt Ltd,Diagnose,01/02/2017,01/05/2017,040125,31,,Personal Impact,Office,31#25
+65,GlaxoSmithKline,Design,2018-04-27,2018-04-27,2404192,75,Design Half Day,Leading Performance Through Change,Office,75#192
+66,GlaxoSmithKline,Design,2018-04-20,2018-04-20,1304190,73,Design Half Day,IN IT TOGETHER,Office,73#190
+67,IT Fosters Testing,Design,2018-04-11,2018-04-11,190899,71,Design Full Day,Campus to Corporate,Office,71#99
+68,Edelweiss Financial Services Ltd.,Design,2018-04-11,2018-04-11,1104188,72,Design Half Day,Disruptive Execution ,New Delhi ,72#188
+69,HSBC Operations,Design,2018-04-06,2018-04-06,2103184,68,Design Half a day,JUICE,MLA Office,68#184
+70,MaxLife Insurance Company Ltd.,Design,2018-03-27,2018-03-27,1203179,65,Design Full Day,IN IT TOGETHER,Office,65#179
+71,Edelweiss Securities Ltd,Design,2018-03-05,2018-03-05,1503181,66,Design Half a day,Networking Skills,New Delhi ,66#181
+72,HSBC Global Financial Centre,Design,2018-02-19,2018-02-19,0903175,64,Design Half a day,Personal Impact,MLA Office,64#175
+73,GlaxoSmithKline,Design,2018-02-09,2018-02-09,0702169,62,Design Full Day,Personal Impact,Office,62#169
+74,Columbia Sportswear,Design,2018-02-09,2018-02-09,2702171,63,Design Half Day,ACE Team,Office,63#171
+75,GlaxoSmithKline,Design,2018-01-29,2018-01-29,3101167,60,Design Full Day,Creating awareness around- Courage  Accountability  Development and Teamwork,Office,60#167
+76,GlaxoSmithKline,Design,2018-01-29,2018-01-29,3101168,61,Design Half Day,Creating awareness around- Courage  Accountability  Development and Teamwork,Office,61#168
+77,Max Healthcare Institute Limited,Design,2018-01-19,2018-01-19,1101162,56,Design Full Day,Camelot Court,Office,56#162
+78,MaxLife Insurance Company Ltd.,Design,2018-01-18,2018-01-18,1201164,58,Design Full Day,IN IT TOGETHER,MLA Office,58#164
+79,MaxLife Insurance Company Ltd.,Design,2018-01-17,2018-01-18,1601165,59,Design Half Day,JUICE,Office,59#165
+80,Edelweiss Financial Services Ltd.,Design,2018-01-10,2018-01-10,1909119,55,Design Half Day,Emerging Leaders: Communication,Delhi,55#119
+81,Genpact India Private Limited,Design,2017-12-27,2017-12-28,1201163,57,Design Full Day,Diversity,MLA Office,57#163
+82,Max Healthcare Institute Limited,Design,2017-12-19,2017-12-19,0612154,54,Design Full Day,JUICE,MLA office,54#154
+83,JSW Steel Limited,Design,2017-11-29,2017-11-29,0112152,53,Design Half Day,Leadership Impact,New Delhi,53#152
+84,MaxLife Insurance Company Ltd.,Design,2017-11-28,2017-11-28,1711143,48,Design Full Day,JUICE,MLA office,48#143
+85,IDFC Asset Management Company Ltd,Design,2017-11-24,2017-11-24,2011146,51,Design Half a day,Leading your team,MLA office,51#146
+86,MaxLife Insurance Company Ltd.,Design,2017-11-23,2017-11-23,1711144,49,Design Full Day,JUICE,Home,49#144
+87,Edelweiss Financial Services Ltd.,Design,2017-11-21,2017-11-21,0811140,45,Design Half Day,Psychology of Peak Perfomance,Delhi NCR,45#140
+88,Nestle India Limited,Design,2017-11-19,2017-11-19,1010131,42,Design Half Day,Communicating with Impact,MLA office,42#131
+89,EY,Design,2017-11-16,2017-11-16,1611142,47,Design Half a day,JUICE,MLA Office,47#142
+90,Max Healthcare Institute Limited,Design,2017-11-08,2017-11-08,0911141,46,Design Full Day,JUICE,MLA office,46#141
+91,Fortis Healthcare Limited,Design,2017-11-01,2017-11-01,2011145,50,Design Full Day,Reaching Your Peak,Home,50#145
+92,Edelweiss Financial Services Ltd.,Design,2017-10-25,2017-10-25,2410134,43,Design Half Day,Personal Impact,Delhi NCR,43#134
+93,Sopra India Pvt. Ltd.,Design,2017-10-23,2017-10-23,0910130,41,Design Half Day,Leading your team,Office,41#130
+94,MaxLife Insurance Company Ltd.,Design,2017-10-05,2017-10-05,0410127,39,Design Full Day,JUICE,Office,39#127
+95,GlaxoSmithKline,Design,2017-09-29,2017-09-29,2709125,38,Design Half Day,Personal Impact,Office,38#125
+96,Genpact India Private Limited,Design,2017-09-28,2017-09-29,2811150,52,Design Full Day,Diversity,MLA office,52#150
+97,Coca Cola India Private Limited,Design,2017-09-26,2017-09-26,2009120,37,Design Half Day,Sexual Harassment,MLA office,37#120
+98,SRF Ltd.,Design,2017-09-07,2017-09-07,0609111,34,Design Half a day,JUICE,Gurgaon,34#111
+99,Edelweiss Financial Services Ltd.,Design,2017-09-05,2017-09-05,1509115,35,Design Half Day,Networking Skills,Office,35#115
+100,Edelweiss Financial Services Ltd.,Design,2017-08-08,2017-08-08,180790,32,Design Half a day,Commitment & Drive,Delhi,32#90
+101,Edelweiss Financial Services Ltd.,Design,2017-08-08,2017-08-08,1909119,36,Design Half a day,Emerging Leaders Journey - Commitment & Drive,Delhi NCR,36#119
+102,HSBC Operations,Design,2017-08-04,2017-08-04,280794,31,Design Half a day,Line Managers,Hyderabad,31#94
+103,Coca Cola India Private Limited,Design,2017-07-24,2017-07-26,160675,29,Design Full Day,Book,hriyana,29#75
+104,Coca Cola India Private Limited,Design,2017-07-18,2017-07-18,120782,17,Design Half a day,Reaching Your Peak,MLA office,17#82
+105,Coca Cola India Private Limited,Design,2017-07-17,2017-07-18,170789,27,Design Full Day,Book,noida,27#89
+106,Ericsson India Private Limited,Design,2017-07-14,2017-07-14,070780,19,Design Half a day,Impact And Influence,Gurgaon,19#80
+107,Groz Engineering Tools (P) Ltd., Groz Net Industries,Design,2017-07-13,2017-07-13,100781,18,Design Half a day,Connecting with Clients,MLA office,18#81
+108,Delhivery,Design,2017-06-21,2017-06-21,150674,14,Design Half a day,Vital leader,Gurgaon,14#74
+109,Confederation of Indian Industry,Design,2017-06-08,2017-06-08,150563,12,Design Half a day,Executive Presence,Delhi NCR,12#63
+110,Penguin Random House India Pvt Ltd,Design,2017-05-15,2017-05-15,100560,11,Design Half a day,Communicating with Impact,Delhi NCR,11#60
+111,Genpact India Private Limited,Design,2017-05-03,2017-05-03,190565,13,Design Full Day,Collaboration,Hyderabad,13#65
+112,Genpact India Private Limited,Design,2017-03-16,2017-03-16,140348,10,Design Full Day,Impact And Influence,Hauz Khas MLA office,10#48
+113,Pernod Ricard India (P) Limited,Design,2017-03-07,2017-03-07,060345,9,Design Half a day,Collaboration,Hauz Khas MLA office,9#45
+114,Genpact India Private Limited,Design,2017-03-06,2017-03-07,050778,20,Design Full Day,Impact And Influence,MLA office,20#78
+115,MaxLife Insurance Company Ltd.,Design,2017-02-14,2017-02-14,140241,8,Design Half a day,Change Management,Hauz Khas MLA office,8#41
+116,FIL Research India Private Limited,Design,2017-01-30,2017-01-30,140242,7,Design Half a day,Diversity,Hauz Khas MLA office,7#42
+117,Genpact India Private Limited,Design,2017-01-19,2017-01-19,090130,5,Design Full Day,Personal Impact,Gurgaon,5#30
+118,RBS,Design,2017-01-19,2017-01-19,170133,6,Design Half a day,ACE Team,Delhi,6#33
+119,Soprasteria India Pvt Ltd,Design,2017-01-03,2017-01-03,040125,4,Design Half a day,Personal Impact,Office,4#25
+120,Max Healthcare Institute Limited,Design,2016-12-03,2016-12-03,241112,2,Design Full Day,Team Building,Gurgaon,2#12
+121,American Express India Private Limited,Design,2016-11-28,2016-11-28,221107,1,Design Half a day,Impact And Influence,Hauz Khas,1#7
+122,FIL Research India Private Limited,Delivery,2018-04-30,2018-04-30,2704195,1129,Workshop  Half Day Within Delhi NCR,ACE Team,Delhi,1129#195
+123,FIL Research India Private Limited,Delivery,2018-04-30,2018-04-30,2704195,1130,Learning Material / Handout & Folders,ACE Team,Delhi,1130#195
+124,Delhivery,Delivery,2018-04-27,2018-04-27,0702170,1109,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 6,Gurgaon,1109#170
+125,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1072,Leading your Team,Leading the Way,Pune,1072#185
+126,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1073,Learning Material / Handout & Folders,Leading the Way,Pune,1073#185
+127,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1074,Do It Now- How to engage talent ,Leading the Way,Pune,1074#185
+128,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1075,Workshop Full Day,Leading the Way,Pune,1075#185
+129,GlaxoSmithKline,Delivery,2018-04-26,2018-04-26,1304190,1105,Workshop  Half Day Outside Delhi NCR,IN IT TOGETHER,Nainital,1105#190
+130,GlaxoSmithKline,Delivery,2018-04-26,2018-04-26,1304190,1106,Learning Material / Handout & Folders,IN IT TOGETHER,Nainital,1106#190
+131,GlaxoSmithKline,Delivery,2018-04-26,2018-04-26,1304190,1107,Brick Sustaining Culture Change,IN IT TOGETHER,Nainital,1107#190
+132,JSW Steel Limited,Delivery,2018-04-24,2018-04-25,0301159,1079,Learning Material / Handout & Folders,Leadership Impact,Tarapur  Maharashtra,1079#159
+133,JSW Steel Limited,Delivery,2018-04-24,2018-04-25,0301159,1081,Workshop Full Day,Leadership Impact,Tarapur  Maharashtra,1081#159
+134,HSBC Operations,Delivery,2018-04-23,2018-04-25,2103184,1066,Workshop Full Day,JUICE,Bangalore,1066#184
+135,HSBC Operations,Delivery,2018-04-23,2018-04-25,2103184,1067,Certificate,JUICE,Bangalore,1067#184
+136,HSBC Operations,Delivery,2018-04-23,2018-04-25,2103184,1068,Learning Material / Handout & Folders,JUICE,Bangalore,1068#184
+137,GlaxoSmithKline,Delivery,2018-04-24,2018-04-24,2709125,749,Implementation Day,Personal Impact,Gurgaon,749#125
+138,Edelweiss Financial Services Ltd.,Delivery,2018-04-23,2018-04-23,1909119,1112,Assessment Meter,Emerging Leaders: Collaboration,Delhi,1112#119
+139,IDFC Asset Management Company Ltd,Delivery,2018-04-23,2018-04-23,2112157,950,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 6,Mumbai,950#157
+140,JSW Steel Limited,Delivery,2018-04-19,2018-04-20,0301159,1078,Learning Material / Handout & Folders,Leadership Impact,Tarapur  Maharashtra,1078#159
+141,JSW Steel Limited,Delivery,2018-04-19,2018-04-20,0301159,1080,Workshop Full Day,Leadership Impact,Tarapur  Maharashtra,1080#159
+142,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1052,Workshop Full Day,Leading the Way,Coimbatore,1052#180
+143,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1053,Do It Now- How to engage talent ,Leading the Way,Coimbatore,1053#180
+144,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1054,Learning Material / Handout & Folders,Leading the Way,Coimbatore,1054#180
+145,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1055,Leading your Team,Leading the Way,Coimbatore,1055#180
+146,RBS,Delivery,2018-04-20,2018-04-20,0404186,1103,Expresso Session within NCR,Voice Master - use tone  pitch & pace to communicate more impact fully,Gurgaon - Video Conferencing,1103#186
+147,RBS,Delivery,2018-04-20,2018-04-20,0404186,1104,Expresso Session within NCR,Communicating with Courage & Consideration,Gurgaon - Webinar,1104#186
+148,RBS,Delivery,2018-04-19,2018-04-19,0404186,1101,Expresso Session within NCR,Less is more,Gurgaon - Webinar,1101#186
+149,RBS,Delivery,2018-04-19,2018-04-19,0404186,1102,Expresso Session within NCR,Communicating effectively with Millennial - Panel Induction with external industry leader ,Gurgaon,1102#186
+150,GlaxoSmithKline,Delivery,2018-04-18,2018-04-18,0603172,1021,Expresso Session within NCR,Body Language,Gurgaon,1021#172
+151,RBS,Delivery,2018-04-18,2018-04-18,0404186,1100,Expresso Session within NCR,Stage Fright - Butterflies in formation,Mumbai,1100#186
+152,GlaxoSmithKline,Delivery,2018-04-17,2018-04-17,0603172,1020,Expresso Session within NCR,Storytelling,Gurgaon,1020#172
+153,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1045,Workshop Full Day,IN IT TOGETHER,Goa,1045#179
+154,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1046,Learning Material / Handout & Folders,IN IT TOGETHER,Gurgaon,1046#179
+155,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1047,Certificate,IN IT TOGETHER,Gurgaon,1047#179
+156,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1048,Trust Contract,IN IT TOGETHER,Gurgaon,1048#179
+157,RBS,Delivery,2018-04-17,2018-04-17,0404186,1098,Expresso Session within NCR,Voice Master - use tone  pitch & pace to communicate more impact fully,Gurgaon - Video Conferencing,1098#186
+158,RBS,Delivery,2018-04-17,2018-04-17,0404186,1099,Expresso Session within NCR,Communicating with Courage & Consideration,Gurgaon - Webinar,1099#186
+159,Delhivery,Delivery,2018-04-16,2018-04-16,0702170,1077,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 5,Gurgaon,1077#170
+160,GlaxoSmithKline,Delivery,2018-04-16,2018-04-16,0603172,1019,Expresso Session within NCR,Assertiveness,Gurgaon,1019#172
+161,RBS,Delivery,2018-04-16,2018-04-16,0404186,1096,Expresso Session within NCR,Speech Master - impromptu speech competition,Gurgaon,1096#186
+162,RBS,Delivery,2018-04-16,2018-04-16,0404186,1097,Expresso Session within NCR,Once Upon a Time - Make Engaging Business Presentation  using the art of story telling,Gurgaon - Video Conferencing,1097#186
+163,Edelweiss Financial Services Ltd.,Delivery,2018-04-14,2018-04-14,1104188,1093,Workshop  Half Day Outside Delhi NCR,Disruptive Execution ,Mumbai,1093#188
+164,Edelweiss Financial Services Ltd.,Delivery,2018-04-14,2018-04-14,1104188,1095,Learning Material / Handout & Folders,Disruptive Execution ,Mumbai ,1095#188
+165,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1023,Workshop Full Day,Presenting with Presence,Gurgaon,1023#173
+166,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1024,Perfect Presentation,Book,Gurgaon,1024#173
+167,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1025,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,1025#173
+168,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1026,Certificate,Presenting with Presence,Gurgaon,1026#173
+169,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1043,Do It Now-  How to Present,Cards,Gurgaon,1043#173
+170,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1044,Stage Management,Presenting with Presence,Gurgaon,1044#173
+171,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1069,Pen Drive,Presenting with Presence,Gurgaon,1069#173
+172,Edelweiss Financial Services Ltd.,Delivery,2018-04-13,2018-04-13,1104188,1094,Workshop Full Day,Disruptive Execution ,Mumbai ,1094#188
+173,IDFC Asset Management Company Ltd,Delivery,2018-04-09,2018-04-09,2112157,948,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 4,Mumbai,948#157
+174,HSBC Global Financial Centre,Delivery,2018-04-05,2018-04-06,0903175,1035,Coaching Call 45 minutes,Personal Impact,On-call,1035#175
+175,Delhivery,Delivery,2018-04-05,2018-04-05,0809112,1065,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,1065#112
+176,Delhivery,Delivery,2018-04-05,2018-04-05,0702170,1070,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 4,Gurgaon,1070#170
+177,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-04,2018-04-04,0612153,914,Group Coaching Call (60 Min),Leading the Way,On call,914#153
+178,GlaxoSmithKline,Delivery,2018-04-04,2018-04-04,2003183,1063,Expresso Session outside NCR,Personal Impact,Hyderabad,1063#183
+179,GlaxoSmithKline,Delivery,2018-04-03,2018-04-04,2003183,1064,Learning Material / Handout & Folders,Personal Impact,Gurgaon,1064#183
+180,Edelweiss Financial Services Ltd.,Delivery,2018-04-02,2018-04-03,2410134,798,Coaching Call 45 minutes,Personal Impact,On Call,798#134
+181,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-03,2018-04-03,0612153,913,Group Coaching Call (60 Min),Leading the Way,On call,913#153
+182,GlaxoSmithKline,Delivery,2018-04-03,2018-04-03,2003183,1062,Expresso Session within NCR,Personal Impact,Gurgaon,1062#183
+183,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-28,2018-03-29,0612153,912,Coaching Call 45 minutes,Impact And Influence,MLA Office,912#153
+184,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-28,2018-03-29,0903176,1039,Learning Material / Handout & Folders,Impact And Influence,Pune,1039#176
+185,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-28,2018-03-29,0903176,1040,Workshop Full Day,Impact And Influence,Pune,1040#176
+186,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-28,2018-03-29,0903176,1051,Charisma Effect,Impact And Influence,Pune,1051#176
+187,Delhivery,Delivery,2018-03-28,2018-03-28,0702170,1061,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 3,Gurgaon,1061#170
+188,Maynardleigh Associates,Delivery,2018-03-27,2018-03-28,0903177,1041,Open Workshop Presenting With Presence,Presenting with Presence,Delhi NCR,1041#177
+189,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-26,2018-03-27,0612153,908,Coaching Call 45 minutes,Impact And Influence,MLA Office,908#153
+190,Sumitomo Mitsui Banking Corporation,Delivery,2018-03-24,2018-03-24,0803174,1027,Workshop  Half Day Within Delhi NCR,JUICE,NCR,1027#174
+191,IDFC Asset Management Company Ltd,Delivery,2018-03-23,2018-03-23,2112157,947,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 3,Mumbai,947#157
+192,GlaxoSmithKline,Delivery,2018-03-22,2018-03-23,0702169,1013,Workshop Full Day,Personal Impact,Gurgaon,1013#169
+193,GlaxoSmithKline,Delivery,2018-03-22,2018-03-23,0702169,1015,Learning Material / Handout & Folders,Personal Impact,Gurgaon,1015#169
+194,GlaxoSmithKline,Delivery,2018-03-22,2018-03-23,0702169,1016,Charisma Effect,Book,Gurgaon,1016#169
+195,GlaxoSmithKline,Delivery,2018-03-22,2018-03-23,0702169,1017,Do It Now- Personal Impact,Cards,Gurgaon,1017#169
+196,GlaxoSmithKline,Delivery,2018-03-22,2018-03-23,0702169,1018,Progress IT ,Personal Impact,Gurgaon,1018#169
+197,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-22,2018-03-23,0903176,1037,Workshop Full Day,Impact And Influence,Chennai,1037#176
+198,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-22,2018-03-23,0903176,1038,Learning Material / Handout & Folders,Impact And Influence,Chennai,1038#176
+199,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-22,2018-03-23,0903176,1050,Charisma Effect,Impact And Influence,Chennai,1050#176
+200,Genpact India Private Limited,Delivery,2018-03-22,2018-03-22,2811150,1036,Workshop Full Day,Diversity,Jaipur,1036#150
+201,GlaxoSmithKline,Delivery,2018-03-21,2018-03-21,1503182,1059,Workshop Full Day,New Ways of Working,Gurgaon,1059#182
+202,GlaxoSmithKline,Delivery,2018-03-21,2018-03-21,1503182,1060,Learning Material / Handout & Folders,New Ways of Working,Gurgaon,1060#182
+203,Edelweiss Securities Ltd,Delivery,2018-03-17,2018-03-17,1503181,1056,Workshop Full Day,Networking Skills,Mumbai,1056#181
+204,Edelweiss Securities Ltd,Delivery,2018-03-17,2018-03-17,1503181,1057,Learning Material / Handout & Folders,Networking Skills,Mumbai,1057#181
+205,Edelweiss Securities Ltd,Delivery,2018-03-17,2018-03-17,1503181,1058,Certificate,Networking Skills,Mumbai,1058#181
+206,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-15,2018-03-16,0612153,911,Workshop Full Day,Impact And Influence,Chennai,911#153
+207,GlaxoSmithKline,Delivery,2018-03-15,2018-03-16,0702169,1014,PI Profile Debrief Call,Personal Impact,Office,1014#169
+208,Delhivery,Delivery,2018-03-16,2018-03-16,0702170,1049,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 2,Gurgaon,1049#170
+209,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-13,2018-03-14,0612153,907,Workshop Full Day,Impact And Influence,Chennai,907#153
+210,JSW Steel Limited,Delivery,2018-03-13,2018-03-14,0301159,969,Workshop Full Day,Leadership Impact,Vijaynagar,969#159
+211,JSW Steel Limited,Delivery,2018-03-13,2018-03-14,0301159,974,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar,974#159
+212,Delhivery,Delivery,2018-03-14,2018-03-14,0702170,1009,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 1,Gurgaon,1009#170
+213,HSBC Global Financial Centre,Delivery,2018-03-12,2018-03-13,0903175,1028,Workshop Full Day,Personal Impact,Mumbai,1028#175
+214,HSBC Global Financial Centre,Delivery,2018-03-12,2018-03-13,0903175,1030,Do It Now- Personal Impact,Personal Impact,Mumbai,1030#175
+215,HSBC Global Financial Centre,Delivery,2018-03-12,2018-03-13,0903175,1032,Learning Material / Handout & Folders,Personal Impact,Mumbai,1032#175
+216,Sopra India Pvt. Ltd.,Delivery,2018-03-12,2018-03-12,1312156,937,Implementation Day,Leading your team,Noida,937#156
+217,FIL Research India Private Limited,Delivery,2018-03-12,2018-03-12,0903178,1042,Workshop  Half Day Within Delhi NCR,ACE Team,Gurgaon,1042#178
+218,HSBC Global Financial Centre,Delivery,2018-03-09,2018-03-09,0903175,1029,Progress IT ,Personal Impact,Mumbai,1029#175
+219,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-07,2018-03-08,0612153,910,Coaching Call 45 minutes,Leading the Way,MLA Office,910#153
+220,IDFC Asset Management Company Ltd,Delivery,2018-03-08,2018-03-08,2112157,1008,Executive Coaching (90 Mins) in Person,Session 2,Mumbai,1008#157
+221,HSBC Global Financial Centre,Delivery,2018-03-05,2018-03-07,0903175,1034,PI Profile Debrief Call,Personal Impact,On-call,1034#175
+222,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-03-05,2018-03-06,0612153,906,Coaching Call 45 minutes,Leading the Way,MLA Office,906#153
+223,IDFC Asset Management Company Ltd,Delivery,2018-03-06,2018-03-06,2112157,946,Executive Coaching (90 Mins) in Person (if 2 is done in a day),Session 2,Mumbai,946#157
+224,HSBC Global Financial Centre,Delivery,2018-03-01,2018-03-01,0903175,1031,Charisma Effect,Personal Impact,Mumbai,1031#175
+225,FIL Research India Private Limited,Delivery,2018-02-28,2018-02-28,250570,519,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,519#70
+226,Edelweiss Financial Services Ltd.,Delivery,2018-02-27,2018-02-27,2410134,799,Implementation Day,Personal Impact,Mumbai,799#134
+227,Delhivery,Delivery,2018-02-26,2018-02-26,0809112,1007,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,1007#112
+228,Delhivery,Delivery,2018-02-23,2018-02-23,0809112,1006,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,1006#112
+229,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-02-22,2018-02-23,0612153,909,Workshop Full Day,Leading the Way,Chennai,909#153
+230,JSW Steel Limited,Delivery,2018-02-22,2018-02-23,0301159,968,Workshop Full Day,Leadership Impact,Vijaynagar,968#159
+231,JSW Steel Limited,Delivery,2018-02-22,2018-02-23,0301159,973,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar,973#159
+232,Bharti Infratel,Delivery,2018-02-22,2018-02-23,1001161,975,Workshop Full Day,Personal Impact,Gurgaon,975#161
+233,Bharti Infratel,Delivery,2018-02-22,2018-02-23,1001161,976,Charisma Effect,Book,Gurgaon,976#161
+234,Bharti Infratel,Delivery,2018-02-22,2018-02-23,1001161,977,Do It Now- Personal Impact,Cards,Gurgaon,977#161
+235,Bharti Infratel,Delivery,2018-02-22,2018-02-23,1001161,978,Learning Material / Handout & Folders,Personal Impact,Gurgaon,978#161
+236,GlaxoSmithKline,Delivery,2018-02-22,2018-02-23,0702169,996,Workshop Full Day,Personal Impact,Gurgaon,996#169
+237,GlaxoSmithKline,Delivery,2018-02-22,2018-02-23,0702169,999,Learning Material / Handout & Folders,Personal Impact,Gurgaon,999#169
+238,GlaxoSmithKline,Delivery,2018-02-22,2018-02-23,0702169,1000,Charisma Effect,Book,Gurgaon,1000#169
+239,GlaxoSmithKline,Delivery,2018-02-22,2018-02-23,0702169,1002,Do It Now- Personal Impact,Cards,Gurgaon,1002#169
+240,GlaxoSmithKline,Delivery,2018-02-22,2018-02-23,0702169,1003,Progress IT ,Personal Impact,Gurgaon,1003#169
+241,Penguin Random House India Pvt Ltd,Delivery,2018-02-21,2018-02-21,250568,329,Executive Coaching (90 Mins) in Person,Session 7,Delhi NCR,329#68
+242,EY,Delivery,2018-02-21,2018-02-21,1611142,857,Dipstick Survey,JUICE,Gurgaon,857#142
+243,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-02-20,2018-02-21,0612153,905,Workshop Full Day,Leading the Way,Chennai,905#153
+244,JSW Steel Limited,Delivery,2018-02-20,2018-02-21,0301159,967,Workshop Full Day,Leadership Impact,Vijaynagar,967#159
+245,JSW Steel Limited,Delivery,2018-02-20,2018-02-21,0301159,972,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar,972#159
+246,USL Diageo,Delivery,2017-12-13,2018-02-20,3010138,821,Progress IT ,Business Communication,Delhi NCR,821#138
+247,GlaxoSmithKline,Delivery,2018-02-19,2018-02-20,0702169,998,PI Profile Debrief Call,Personal Impact,Office,998#169
+248,Columbia Sportswear,Delivery,2018-02-19,2018-02-20,2702171,1010,Workshop Full Day,ACE Team,Bangalore,1010#171
+249,Columbia Sportswear,Delivery,2018-02-19,2018-02-20,2702171,1011,Learning Material / Handout & Folders,ACE Team,Bangalore,1011#171
+250,Columbia Sportswear,Delivery,2018-02-19,2018-02-20,2702171,1012,Certificate,ACE Team,Bangalore,1012#171
+251,Edelweiss Financial Services Ltd.,Delivery,2018-02-19,2018-02-19,1909119,963,Group Coaching Call (60 Min),Emerging Leaders: Communication,Mumbai,963#119
+252,IDFC Asset Management Company Ltd,Delivery,2018-02-16,2018-02-16,2112157,945,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 1,Mumbai,945#157
+253,GlaxoSmithKline,Delivery,2018-02-16,2018-02-16,0702169,997,PI Profile Debrief Call,Personal Impact,Office,997#169
+254,HSBC Global Financial Centre,Delivery,2018-02-16,2018-02-16,0903175,1033,Personal Impact Profile,Personal Impact,Mumbai,1033#175
+255,JSW Steel Limited,Delivery,2018-02-12,2018-02-13,0301159,1004,Workshop Full Day,Leadership Impact,Vijaynagar,1004#159
+256,JSW Steel Limited,Delivery,2018-02-12,2018-02-13,0301159,1005,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar,1005#159
+257,MaxLife Insurance Company Ltd.,Delivery,2018-02-09,2018-02-10,1201164,983,Workshop Full Day,IN IT TOGETHER,Udaipur,983#164
+258,MaxLife Insurance Company Ltd.,Delivery,2018-02-09,2018-02-10,1201164,984,Learning Material / Handout & Folders,IN IT TOGETHER,Udaipur,984#164
+259,Sopra India Pvt. Ltd.,Delivery,2018-02-06,2018-02-07,1312156,995,Coaching Call 45 minutes,Leading your team,On Call,995#156
+260,FIL Research India Private Limited,Delivery,2018-02-05,2018-02-05,250570,520,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,520#70
+261,Max Healthcare Institute Limited,Delivery,2018-02-03,2018-02-03,1101162,979,Workshop Full Day,Camelot Court,Dehradun,979#162
+262,Max Healthcare Institute Limited,Delivery,2018-02-03,2018-02-03,1101162,981,Learning Material / Handout & Folders,Camelot Court,Dehradun,981#162
+263,FIL Research India Private Limited,Delivery,2018-02-02,2018-02-02,250570,989,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,989#70
+264,FIL Research India Private Limited,Delivery,2018-02-02,2018-02-02,250570,990,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,990#70
+265,FIL Research India Private Limited,Delivery,2017-08-08,2018-02-01,250570,504,Learning Material / Handout & Folders,Group Coaching Sessions,Gurgaon,504#70
+266,GlaxoSmithKline,Delivery,2018-02-01,2018-02-01,3101167,991,Workshop Full Day,Creating awareness around- Courage  Accountability  Development and Teamwork,Manesar,991#167
+267,GlaxoSmithKline,Delivery,2018-02-01,2018-02-01,3101167,992,Workshop Full Day,Creating awareness around- Courage  Accountability  Development and Teamwork,Manesar,992#167
+268,JSW Steel Limited,Delivery,2018-01-30,2018-01-31,0301159,966,Workshop Full Day,Leadership Impact,Vijaynagar,966#159
+269,JSW Steel Limited,Delivery,2018-01-30,2018-01-31,0301159,971,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar,971#159
+270,GlaxoSmithKline,Delivery,2018-01-31,2018-01-31,3101168,993,Workshop  Half Day Within Delhi NCR,Creating awareness around- Courage  Accountability  Development and Teamwork,Gurgaon,993#168
+271,GlaxoSmithKline,Delivery,2018-01-31,2018-01-31,3101168,994,Workshop  Half Day Within Delhi NCR,Creating awareness around- Courage  Accountability  Development and Teamwork,Gurgaon,994#168
+272,Delhivery,Delivery,2018-01-23,2018-01-25,0809112,987,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,987#112
+273,Edelweiss Financial Services Ltd.,Delivery,2018-01-24,2018-01-24,1909119,961,Workshop  Half Day Outside Delhi NCR,Emerging Leaders: Communication,Mumbai,961#119
+274,Edelweiss Financial Services Ltd.,Delivery,2018-01-23,2018-01-23,1909119,960,Workshop Full Day,Emerging Leaders: Communication,Mumbai,960#119
+275,Sopra India Pvt. Ltd.,Delivery,2018-01-22,2018-01-23,1312156,936,Coaching Call 45 minutes,Leading your team,Office,936#156
+276,FIL Research India Private Limited,Delivery,2018-01-22,2018-01-22,250570,517,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,517#70
+277,FIL Research India Private Limited,Delivery,2018-01-22,2018-01-22,250570,518,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,518#70
+278,FIL Research India Private Limited,Delivery,2018-01-22,2018-01-22,160244,875,Executive Coaching (90 Mins) in Person,Session 16,Gurgaon,875#44
+279,Edelweiss Financial Services Ltd.,Delivery,2018-01-19,2018-01-20,2410134,793,Workshop Full Day,Personal Impact,Delhi NCR,793#134
+280,Edelweiss Financial Services Ltd.,Delivery,2018-01-19,2018-01-20,2410134,794,Learning Material / Handout & Folders,Personal Impact,Mumbai,794#134
+281,Edelweiss Financial Services Ltd.,Delivery,2018-01-19,2018-01-20,2410134,795,Do It Now- Personal Impact,Personal Impact,Mumbai,795#134
+282,Edelweiss Financial Services Ltd.,Delivery,2018-01-19,2018-01-20,2410134,796,Certificate,Personal Impact,Mumbai,796#134
+283,Edelweiss Financial Services Ltd.,Delivery,2018-01-19,2018-01-20,2410134,797,Progress IT ,Personal Impact,Mumbai,797#134
+284,MaxLife Insurance Company Ltd.,Delivery,2018-01-19,2018-01-19,1601165,985,Workshop Full Day,JUICE,Goa,985#165
+285,MaxLife Insurance Company Ltd.,Delivery,2018-01-19,2018-01-19,1601165,986,Learning Material / Handout & Folders,JUICE,Goa,986#165
+286,Edelweiss Financial Services Ltd.,Delivery,2018-01-10,2018-01-17,1909119,962,Assessment Meter,Emerging Leaders: Communication,Mumbai,962#119
+287,Fortis Healthcare Limited,Delivery,2018-01-16,2018-01-17,2011145,927,Workshop Full Day,Reaching Your Peak,Jaipur,927#145
+288,Sopra India Pvt. Ltd.,Delivery,2018-01-12,2018-01-12,0910130,843,Implementation Day,Leading your team,Pune,843#130
+289,JSW Steel Limited,Delivery,2018-01-10,2018-01-11,0301159,965,Workshop Full Day,Leadership Impact,Vijaynagar,965#159
+290,JSW Steel Limited,Delivery,2018-01-10,2018-01-11,0301159,970,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar,970#159
+291,Edelweiss Financial Services Ltd.,Delivery,2018-01-10,2018-01-10,2410134,964,Coaching Call 60 minutes,Personal Impact,On Call,964#134
+292,Genpact India Private Limited,Delivery,2018-01-09,2018-01-09,1201163,982,Workshop  Half Day Outside Delhi NCR,Diversity,Orlando,982#163
+293,FIL Research India Private Limited,Delivery,2018-01-08,2018-01-08,250570,515,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,515#70
+294,FIL Research India Private Limited,Delivery,2018-01-08,2018-01-08,250570,516,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,516#70
+295,FIL Research India Private Limited,Delivery,2018-01-08,2018-01-08,160244,874,Executive Coaching (90 Mins) in Person,Session 15,Gurgaon,874#44
+296,Max Healthcare Institute Limited,Delivery,2018-01-07,2018-01-07,0612154,915,Workshop Full Day,JUICE,Jaipur,915#154
+297,Max Healthcare Institute Limited,Delivery,2018-01-07,2018-01-07,0612154,916,Learning Material / Handout & Folders,JUICE,Jaipur,916#154
+298,Edelweiss Financial Services Ltd.,Delivery,2018-01-05,2018-01-05,2712158,957,Workshop Full Day,Networking Skills,Mumbai,957#158
+299,Edelweiss Financial Services Ltd.,Delivery,2018-01-05,2018-01-05,2712158,958,Network Maps,Task,Mumbai,958#158
+300,Edelweiss Financial Services Ltd.,Delivery,2018-01-05,2018-01-05,2712158,959,Problem I solve through networking,Task,Mumbai,959#158
+301,FIL Research India Private Limited,Delivery,2018-01-01,2018-01-01,250570,988,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,988#70
+302,Sopra India Pvt. Ltd.,Delivery,2017-12-28,2017-12-29,1312156,928,Workshop Full Day,Leading your team,Gurgaon,928#156
+303,Sopra India Pvt. Ltd.,Delivery,2017-12-29,2017-12-29,1312156,931,Progress IT ,Leading your team,Gurgaon,931#156
+304,Sopra India Pvt. Ltd.,Delivery,2017-12-28,2017-12-29,1312156,932,Learning Material / Handout & Folders,Leading your team,Gurgaon,932#156
+305,Sopra India Pvt. Ltd.,Delivery,2017-12-28,2017-12-29,1312156,933,Leading your Team,Cards,Gurgaon,933#156
+306,Sopra India Pvt. Ltd.,Delivery,2017-12-28,2017-12-29,1312156,934,Leading your Team,Book,Gurgaon,934#156
+307,Sopra India Pvt. Ltd.,Delivery,2017-12-28,2017-12-29,1312156,935,Certificate,Leading your team,Gurgaon,935#156
+308,Sopra India Pvt. Ltd.,Delivery,2017-12-27,2017-12-27,1312156,944,Coaching Call 45 minutes,Leading your team,On Call,944#156
+309,Sopra India Pvt. Ltd.,Delivery,2017-12-22,2017-12-22,1312156,930,Coaching Call 45 minutes,Leading your team,On Call,930#156
+310,Sopra India Pvt. Ltd.,Delivery,2017-12-21,2017-12-21,1312156,943,Coaching Call 45 minutes,Leading your team,On Call,943#156
+311,Genpact India Private Limited,Delivery,2017-12-20,2017-12-20,050778,923,Workshop  Half Day Within Delhi NCR,Implementation Day,Gurgaon,923#78
+312,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-19,2017-12-20,2009121,924,Workshop Full Day,Magnetic Client visit,Chennai,924#121
+313,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-19,2017-12-20,2009121,925,Brick Connecting with Clients,Magnetic Client visit,Chennai,925#121
+314,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-19,2017-12-20,2009121,926,Learning Material / Handout & Folders,Magnetic Client visit,Chennai,926#121
+315,Sopra India Pvt. Ltd.,Delivery,2017-12-20,2017-12-20,1312156,929,Coaching Call 45 minutes,Leading your team,Office,929#156
+316,Delhivery,Delivery,2017-12-19,2017-12-19,0809112,940,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,940#112
+317,GlaxoSmithKline,Delivery,2017-12-19,2017-12-19,2709125,748,Coaching Call 45 minutes,Personal Impact,Office,748#125
+318,Fortis Healthcare Limited,Delivery,2017-12-18,2017-12-19,2011145,885,Workshop Full Day,Reaching Your Peak,Mumbai,885#145
+319,IDFC Asset Management Company Ltd,Delivery,2017-12-15,2017-12-16,2011146,876,Workshop Full Day,Leading your team,Mumbai,876#146
+320,IDFC Asset Management Company Ltd,Delivery,2017-12-15,2017-12-16,2011146,877,Learning Material / Handout & Folders,Leading your team,Mumbai,877#146
+321,IDFC Asset Management Company Ltd,Delivery,2017-12-15,2017-12-16,2011146,878,Leading your Team,Leading your team,Mumbai,878#146
+322,IDFC Asset Management Company Ltd,Delivery,2017-12-15,2017-12-16,2011146,879,Do It Now- How to engage talent ,Leading your team,Mumbai,879#146
+323,IDFC Asset Management Company Ltd,Delivery,2017-12-15,2017-12-16,2011146,942,Certificate,Leading your team,Gurgaon,942#146
+324,USL Diageo,Delivery,2017-12-14,2017-12-15,080898,622,Workshop Full Day,Business Communication,Bangalore,622#98
+325,USL Diageo,Delivery,2017-12-14,2017-12-15,080898,623,Brick Effective Communication,Book,Bangalore,623#98
+326,USL Diageo,Delivery,2017-12-14,2017-12-15,080898,624,Certificate,Business Communication,Bangalore,624#98
+327,USL Diageo,Delivery,2017-12-14,2017-12-15,080898,625,Learning Material / Handout & Folders,Business Communication,Bangalore,625#98
+328,USL Diageo,Delivery,2017-12-14,2017-12-15,080898,626,Progress IT ,Business Communication,Bangalore,626#98
+329,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-15,2017-12-15,2009124,804,Coaching Call 45 minutes,Impact And Influence,Chennai,804#124
+330,JSW Steel Limited,Delivery,2017-12-14,2017-12-15,0112152,902,Workshop Full Day,Leadership Impact,Vijaynagar,902#152
+331,JSW Steel Limited,Delivery,2017-12-14,2017-12-15,0112152,939,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar ,939#152
+332,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-14,2017-12-14,2009124,805,Coaching Call 45 minutes,Impact And Influence,Chennai,805#124
+333,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-14,2017-12-14,2811149,899,Group Coaching Call (60 Min),Impact And Influence,Chennai,899#149
+334,FIL Research India Private Limited,Delivery,2017-12-13,2017-12-13,160244,873,Executive Coaching (90 Mins) in Person,Session 14,Gurgaon,873#44
+335,Coca Cola India Private Limited,Delivery,2017-12-13,2017-12-13,2009120,886,Workshop  Half Day Within Delhi NCR,Sexual Harassment,Gurgaon,886#120
+336,Coca Cola India Private Limited,Delivery,2017-12-13,2017-12-13,2009120,904,Workshop  Half Day Within Delhi NCR,Sexual Harassment,Gurgaon,904#120
+337,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-13,2017-12-13,1010132,881,Group Coaching Call (60 Min),Impact And Influence,Chennai,881#132
+338,Expedia Inc ,Delivery,2017-12-13,2017-12-13,2310133,814,Workshop  Half Day Within Delhi NCR,Harassment ,Gurgaon,814#133
+339,USL Diageo,Delivery,2017-12-12,2017-12-13,3010138,817,Workshop Full Day,Business Communication,Bangalore,817#138
+340,USL Diageo,Delivery,2017-12-13,2017-12-13,3010138,819,Certificate,Business Communication,Bangalore,819#138
+341,JSW Steel Limited,Delivery,2017-12-12,2017-12-13,0112152,901,Workshop Full Day,Leadership Impact,Vijaynagar,901#152
+342,JSW Steel Limited,Delivery,2017-12-12,2017-12-13,0112152,938,Learning Material / Handout & Folders,Leadership Impact,Vijaynagar ,938#152
+343,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-12,2017-12-12,2009124,734,Coaching Call 45 minutes,Impact And Influence,Chennai,734#124
+344,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,858,Stage Management,Presenting with Presence,Gurgaon,858#126
+345,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,859,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,859#126
+346,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,860,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,860#126
+347,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,861,Pen Drive,Presenting with Presence,Gurgaon,861#126
+348,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,864,Perfect Presentation,Presenting with Presence,Gurgaon,864#126
+349,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,867,Do It Now-  How to Present,Presenting with Presence,Gurgaon,867#126
+350,Stryker Global Technology Center Private Limited,Delivery,2017-12-11,2017-12-12,2709126,868,Workshop Full Day,Presenting with Presence,Gurgaon,868#126
+351,USL Diageo,Delivery,2017-12-12,2017-12-12,3010138,820,Perfect Presentation,Book,Mumbai ,820#138
+352,Fortis Healthcare Limited,Delivery,2017-12-11,2017-12-12,2011145,897,Workshop Full Day,Reaching Your Peak,Gurgaon,897#145
+353,Adobe,Delivery,2017-12-11,2017-12-12,0812155,918,Workshop Full Day,Presenting with Presence,Noida,918#155
+354,Adobe,Delivery,2017-12-11,2017-12-12,0812155,920,Do It Now-  How to Present,Presenting with Presence,Noida,920#155
+355,Adobe,Delivery,2017-12-11,2017-12-12,0812155,921,Perfect Presentation,Book,Noida,921#155
+356,Adobe,Delivery,2017-12-11,2017-12-12,0812155,922,Stage Management,Presenting with Presence,Noida,922#155
+357,FIL Research India Private Limited,Delivery,2017-12-11,2017-12-11,250570,513,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,513#70
+358,FIL Research India Private Limited,Delivery,2017-12-11,2017-12-11,250570,514,Group Coaching Session (3 hrs) in person,Change Management,Gurgaon,514#70
+359,Coca Cola India Private Limited,Delivery,2017-12-11,2017-12-11,2009120,705,Workshop  Half Day Within Delhi NCR,Sexual Harassment,Gurgaon,705#120
+360,Coca Cola India Private Limited,Delivery,2017-12-11,2017-12-11,2009120,903,Workshop  Half Day Within Delhi NCR,Sexual Harassment,Gurgaon,903#120
+361,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-11,2017-12-11,2009124,803,Coaching Call 45 minutes,Impact And Influence,Chennai,803#124
+362,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-11,2017-12-11,1010132,776,Group Coaching Call (60 Min),Leading your team,Chennai,776#132
+363,Adobe,Delivery,2017-12-11,2017-12-11,0812155,919,Learning Material / Handout & Folders,Presenting with Presence,Noida,919#155
+364,Fortis Healthcare Limited,Delivery,2017-12-08,2017-12-09,2011145,884,Workshop Full Day,Reaching Your Peak,Bangalore,884#145
+365,USL Diageo,Delivery,2017-12-07,2017-12-08,2408103,627,Workshop Full Day,Presenting With Impact,Mumbai,627#103
+366,USL Diageo,Delivery,2017-12-07,2017-12-08,2408103,628,Stage Management,Presenting With Impact,Mumbai,628#103
+367,USL Diageo,Delivery,2017-12-07,2017-12-08,2408103,629,Learning Material / Handout & Folders,Business Communication,Mumbai,629#103
+368,USL Diageo,Delivery,2017-12-07,2017-12-08,2408103,630,Perfect Presentation,Book,Mumbai,630#103
+369,USL Diageo,Delivery,2017-12-07,2017-12-08,2408103,631,Do It Now-  How to Present,Cards,Gurgaon,631#103
+370,USL Diageo,Delivery,2017-12-07,2017-12-08,2408103,632,Certificate,Presenting With Impact,Mumbai,632#103
+371,GlaxoSmithKline,Delivery,2017-12-08,2017-12-08,2709125,917,Coaching Call 45 minutes,Personal Impact,Office,917#125
+372,Edelweiss Financial Services Ltd.,Delivery,2017-11-23,2017-12-08,0811139,835,Network Maps,Task,Delhi NCR,835#139
+373,Edelweiss Financial Services Ltd.,Delivery,2017-11-23,2017-12-08,0811139,836,Problem I solve through networking,Task,Delhi NCR,836#139
+374,Edelweiss Financial Services Ltd.,Delivery,2017-11-23,2017-12-08,0811139,838,Network Maps,Task,Bangalore,838#139
+375,Edelweiss Financial Services Ltd.,Delivery,2017-11-23,2017-12-08,0811139,839,Problem I solve through networking,Networking Skills,Bangalore,839#139
+376,Coca Cola India Private Limited,Delivery,2017-12-07,2017-12-07,120782,419,Workshop Full Day,Reaching Your Peak,Gurgaon,419#82
+377,Coca Cola India Private Limited,Delivery,2017-12-07,2017-12-07,120782,420,Learning Material / Handout & Folders,Reaching Your Peak,Gurgaon,420#82
+378,Delhivery,Delivery,2017-12-07,2017-12-07,0809112,806,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,806#112
+379,Edelweiss Financial Services Ltd.,Delivery,2017-11-22,2017-12-07,0811139,832,Network Maps,Task,Mumbai,832#139
+380,Edelweiss Financial Services Ltd.,Delivery,2017-11-22,2017-12-07,0811139,833,Problem I solve through networking,Task,Mumbai,833#139
+381,Fortis Healthcare Limited,Delivery,2017-12-06,2017-12-07,2011145,883,Workshop Full Day,Reaching Your Peak,Kolkata,883#145
+382,Expedia Inc ,Delivery,2017-12-06,2017-12-06,2310133,813,Workshop  Half Day Within Delhi NCR,Harassment ,Gurgaon,813#133
+383,Edelweiss Financial Services Ltd.,Delivery,2017-11-21,2017-12-06,0811139,829,Network Maps,Task,Mumbai,829#139
+384,Edelweiss Financial Services Ltd.,Delivery,2017-11-21,2017-12-06,0811139,830,Problem I solve through networking,Task,Mumbai,830#139
+385,Delhivery,Delivery,2017-12-04,2017-12-05,0809112,900,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,900#112
+386,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-05,2017-12-05,1010132,842,Coaching Call 45 minutes,Impact And Influence,On call,842#132
+387,Edelweiss Financial Services Ltd.,Delivery,2017-11-20,2017-12-05,0811139,826,Problem I solve through networking,Task,Mumbai,826#139
+388,Edelweiss Financial Services Ltd.,Delivery,2017-11-20,2017-12-05,0811139,827,Network Maps,Task,Mumbai,827#139
+389,Genpact India Private Limited,Delivery,2017-12-05,2017-12-05,2811150,896,Workshop  Half Day Outside Delhi NCR,Diversity,Bangalore,896#150
+390,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-12-01,2017-12-04,1010132,772,Coaching Call 45 minutes,Impact And Influence,At home,772#132
+391,MaxLife Insurance Company Ltd.,Delivery,2017-12-04,2017-12-04,1711144,865,Workshop Full Day,SUN  SAND  and SYNCHRONY,Goa,865#144
+392,MaxLife Insurance Company Ltd.,Delivery,2017-12-04,2017-12-04,1711144,866,Learning Material / Handout & Folders,SUN  SAND  and SYNCHRONY,Goa,866#144
+393,USL Diageo,Delivery,2017-12-02,2017-12-02,3010138,818,Learning Material / Handout & Folders,Business Communication,Bangalore,818#138
+394,Edelweiss Financial Services Ltd.,Delivery,2017-12-02,2017-12-02,0811140,840,Workshop Full Day,Psychology of Peak Perfomance,Andamans,840#140
+395,Fortis Healthcare Limited,Delivery,2017-11-30,2017-12-01,2011145,871,Workshop Full Day,Reaching Your Peak,Mohali,871#145
+396,FIL Research India Private Limited,Delivery,2017-11-30,2017-11-30,160244,872,Executive Coaching (90 Mins) in Person,Session 13,Gurgaon,872#44
+397,HSBC Global Financial Centre,Delivery,2017-11-30,2017-11-30,1509116,784,Expresso Session outside NCR,Creative Problem Solving,Chennai,784#116
+398,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-30,2017-11-30,2009124,732,Workshop Full Day,Impact And Influence,Chennai,732#124
+399,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-30,2017-11-30,2009124,733,Charisma Effect,Impact And Influence,Chennai,733#124
+400,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-30,2017-11-30,1010132,841,Coaching Call 45 minutes,Impact And Influence,On call,841#132
+401,Edelweiss Financial Services Ltd.,Delivery,2017-11-15,2017-11-30,0811139,823,Network Maps,Task,Delhi NCR,823#139
+402,Edelweiss Financial Services Ltd.,Delivery,2017-11-15,2017-11-30,0811139,824,Problem I solve through networking,Task,Delhi NCR,824#139
+403,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,847,Workshop Full Day,Vital leader,Gurgaon,847#112
+404,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,848,Leading the Way,Book,Gurgaon,848#112
+405,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,849,Certificate,Vital leader,Gurgaon,849#112
+406,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,850,Learning Material / Handout & Folders,Vital leader,Gurgaon,850#112
+407,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,851,Progress IT ,Vital leader,Gurgaon,851#112
+408,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,880,Do It Now- How to engage talent ,Cards,Gurgaon,880#112
+409,Delhivery,Delivery,2017-11-28,2017-11-29,0809112,882,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,882#112
+410,Sopra India Pvt. Ltd.,Delivery,2017-11-28,2017-11-29,0910130,760,Coaching Call 45 minutes,Leading your team,Office,760#130
+411,MaxLife Insurance Company Ltd.,Delivery,2017-11-29,2017-11-29,1711143,862,Workshop Full Day,JUICE,Gurgaon,862#143
+412,MaxLife Insurance Company Ltd.,Delivery,2017-11-29,2017-11-29,1711143,863,Learning Material / Handout & Folders,JUICE,Gurgaon,863#143
+413,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-28,2017-11-29,2811149,892,Workshop Full Day,Impact And Influence,Chennai,892#149
+414,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-28,2017-11-29,2811149,893,Learning Material / Handout & Folders,Impact And Influence,Chennai,893#149
+415,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-28,2017-11-29,2811149,894,Charisma Effect,Impact And Influence,Chennai,894#149
+416,HSBC Global Financial Centre,Delivery,2017-11-27,2017-11-27,1509116,783,Expresso Session outside NCR,Creative Problem Solving,Hyderabad,783#116
+417,Fortis Healthcare Limited,Delivery,2017-11-24,2017-11-25,2011145,870,Workshop Full Day,Reaching Your Peak,Gurgaon,870#145
+418,FIL Research India Private Limited,Delivery,2017-11-24,2017-11-24,250570,511,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,511#70
+419,FIL Research India Private Limited,Delivery,2017-11-24,2017-11-24,250570,512,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,512#70
+420,Edelweiss Financial Services Ltd.,Delivery,2017-11-23,2017-11-23,0811139,834,Workshop Full Day,Networking Skills,Delhi NCR,834#139
+421,Edelweiss Financial Services Ltd.,Delivery,2017-11-23,2017-11-23,0811139,837,Workshop Full Day,Networking Skills,Bangalore,837#139
+422,Nestle India Limited,Delivery,2017-11-21,2017-11-22,050128,785,Workshop Full Day,Communication skills for Success,Chennai,785#28
+423,Nestle India Limited,Delivery,2017-11-21,2017-11-22,050128,786,Learning Material / Handout & Folders,Communication skills for Success,Chennai,786#28
+424,Nestle India Limited,Delivery,2017-11-21,2017-11-22,050128,787,Brick Effective Communication,Communication skills for Success,Chennai,787#28
+425,HSBC Global Financial Centre,Delivery,2017-11-20,2017-11-22,1509116,782,Expresso Session within NCR,Creative Problem Solving,Gurgaon,782#116
+426,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-20,2017-11-22,2009122,722,Group Coaching Call (60 Min),Leading the Way,Call,722#122
+427,Nestle India Limited,Delivery,2017-11-22,2017-11-22,1010131,766,Workshop Full Day,Communicating with Impact,Gurgaon,766#131
+428,Nestle India Limited,Delivery,2017-11-22,2017-11-22,1010131,767,Learning Material / Handout & Folders,Communicating with Impact,Gurgaon,767#131
+429,Edelweiss Financial Services Ltd.,Delivery,2017-11-22,2017-11-22,0811139,831,Workshop Full Day,Networking Skills,Mumbai,831#139
+430,FIL Research India Private Limited,Delivery,2017-11-21,2017-11-22,2811147,887,Workshop Full Day,Building Your Team,Gurgaon,887#147
+431,Edelweiss Financial Services Ltd.,Delivery,2017-11-21,2017-11-21,0811139,828,Workshop Full Day,Networking Skills,Mumbai,828#139
+432,EY,Delivery,2017-11-21,2017-11-21,1611142,852,Workshop Full Day,JUICE,Gugaon,852#142
+433,EY,Delivery,2017-11-21,2017-11-21,1611142,853,Learning Material / Handout & Folders,JUICE,Gugaon,853#142
+434,EY,Delivery,2017-11-21,2017-11-21,1611142,854,Do It Now- Team Impact,Cards,Gurgaon,854#142
+435,EY,Delivery,2017-11-21,2017-11-21,1611142,855,Certificate,JUICE,Gurgaon,855#142
+436,EY,Delivery,2017-11-21,2017-11-21,1611142,856,Trust Contract,JUICE,Gurgaon,856#142
+437,Expedia Inc ,Delivery,2017-11-20,2017-11-20,2310133,790,Workshop  Half Day Within Delhi NCR,Harassment ,Gurgaon,790#133
+438,Edelweiss Financial Services Ltd.,Delivery,2017-11-20,2017-11-20,0811139,825,Workshop Full Day,Networking Skills,Mumbai,825#139
+439,Max Healthcare Institute Limited,Delivery,2017-11-18,2017-11-18,0911141,844,Workshop  Half Day Outside Delhi NCR,JUICE,Dehradun,844#141
+440,Max Healthcare Institute Limited,Delivery,2017-11-18,2017-11-18,0911141,845,Learning Material / Handout & Folders,JUICE,Dehradun,845#141
+441,Max Healthcare Institute Limited,Delivery,2017-11-18,2017-11-18,0911141,846,Trust Contract,JUICE,Dehradun,846#141
+442,USL Diageo,Delivery,2017-11-16,2017-11-17,080898,617,Workshop Full Day,Business Communication,Mumbai,617#98
+443,USL Diageo,Delivery,2017-11-16,2017-11-17,080898,618,Brick Effective Communication,Book,Mumbai,618#98
+444,USL Diageo,Delivery,2017-11-16,2017-11-17,080898,619,Certificate,Business Communication,Mumbai,619#98
+445,USL Diageo,Delivery,2017-11-16,2017-11-17,080898,620,Progress IT ,Business Communication,Mumbai,620#98
+446,USL Diageo,Delivery,2017-11-16,2017-11-17,080898,621,Learning Material / Handout & Folders,Business Communication,Mumbai,621#98
+447,Nestle India Limited,Delivery,2017-11-16,2017-11-17,050128,779,Workshop Full Day,Communication skills for Success,Kolkata,779#28
+448,Nestle India Limited,Delivery,2017-11-16,2017-11-17,050128,780,Brick Effective Communication,Communication skills for Success,Kolkata,780#28
+449,Nestle India Limited,Delivery,2017-11-16,2017-11-17,050128,781,Learning Material / Handout & Folders,Communication skills for Success,Kolkata,781#28
+450,Genpact India Private Limited,Delivery,2017-11-16,2017-11-17,050778,869,Fruit Call (60 min),Leading the Way,Gurgaon,869#78
+451,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-16,2017-11-17,1010132,771,Workshop Full Day,Impact And Influence,Chennai,771#132
+452,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-16,2017-11-17,1010132,775,Charisma Effect,Impact And Influence,Chennai,775#132
+453,Genpact India Private Limited,Delivery,2017-11-17,2017-11-17,2811150,895,Workshop  Half Day Within Delhi NCR,Diversity,Gurgaon,895#150
+454,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-15,2017-11-15,2009122,815,Coaching Call 45 minutes,Impact And Influence,Call,815#122
+455,Edelweiss Financial Services Ltd.,Delivery,2017-11-15,2017-11-15,0811139,822,Workshop Full Day,Networking Skills,Delhi NCR,822#139
+456,USL Diageo,Delivery,2017-11-13,2017-11-14,2408103,607,Workshop Full Day,Presenting With Impact,Gurgaon,607#103
+457,USL Diageo,Delivery,2017-11-13,2017-11-14,2408103,608,Stage Management,Presenting With Impact,Gurgaon,608#103
+458,USL Diageo,Delivery,2017-11-13,2017-11-14,2408103,609,Learning Material / Handout & Folders,Presenting With Impact,Gurgaon,609#103
+459,USL Diageo,Delivery,2017-11-13,2017-11-14,2408103,610,Perfect Presentation,Book,Gurgaon,610#103
+460,USL Diageo,Delivery,2017-11-13,2017-11-14,2408103,611,Do It Now-  How to Present,Cards,Gurgaon,611#103
+461,USL Diageo,Delivery,2017-11-13,2017-11-14,2408103,633,Certificate,Presenting With Impact,Gurgaon,633#103
+462,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-13,2017-11-14,2009124,731,Coaching Call 45 minutes,Leading the Way,Call,731#124
+463,Steria (India) Ltd,Delivery,2017-11-13,2017-11-14,2811148,890,Workshop Full Day,Campus to Corporate,Chennai,890#148
+464,Steria (India) Ltd,Delivery,2017-11-13,2017-11-14,2811148,891,Learning Material / Handout & Folders,Campus to Corporate,ChennaI,891#148
+465,FIL Research India Private Limited,Delivery,2017-11-10,2017-11-10,250570,509,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,509#70
+466,FIL Research India Private Limited,Delivery,2017-11-10,2017-11-10,250570,510,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,510#70
+467,Penguin Random House India Pvt Ltd,Delivery,2017-11-09,2017-11-09,250568,328,Executive Coaching (90 Mins) in Person,Session 6,Delhi NCR,328#68
+468,Steria (India) Ltd,Delivery,2017-11-08,2017-11-09,2811148,888,Workshop Full Day,Campus to Corporate,Noida,888#148
+469,Steria (India) Ltd,Delivery,2017-11-08,2017-11-09,2811148,889,Learning Material / Handout & Folders,Campus to Corporate,Noida,889#148
+470,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-07,2017-11-07,2009122,812,Coaching Call 45 minutes,Impact And Influence,Call,812#122
+471,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-06,2017-11-06,2009122,721,Coaching Call 45 minutes,Impact And Influence,Call,721#122
+472,Sopra India Pvt. Ltd.,Delivery,2017-11-03,2017-11-04,0910130,758,Workshop Full Day,Leading your team,Pune,758#130
+473,Sopra India Pvt. Ltd.,Delivery,2017-11-03,2017-11-04,0910130,761,Progress IT ,Leading your team,Pune,761#130
+474,Sopra India Pvt. Ltd.,Delivery,2017-11-03,2017-11-04,0910130,762,Learning Material / Handout & Folders,Leading your team,Pune,762#130
+475,Sopra India Pvt. Ltd.,Delivery,2017-11-03,2017-11-04,0910130,763,Leading your Team,Book,Pune,763#130
+476,Sopra India Pvt. Ltd.,Delivery,2017-11-03,2017-11-04,0910130,764,Leading your Team,Cards,Gurgaon,764#130
+477,Sopra India Pvt. Ltd.,Delivery,2017-11-03,2017-11-04,0910130,765,Certificate,Leading your team,Pune,765#130
+478,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-02,2017-11-03,2009124,728,Workshop Full Day,Leading the Way,Chennai,728#124
+479,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-02,2017-11-03,2009124,729,Leading your Team,Leading the Way,Chennai,729#124
+480,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-11-02,2017-11-03,2009124,730,Do It Now- How to engage talent ,Leading the Way,Chennai,730#124
+481,Adobe,Delivery,2017-11-02,2017-11-03,2610136,807,Workshop Full Day,Presenting with Presence,Noida,807#136
+482,Adobe,Delivery,2017-11-02,2017-11-03,2610136,808,Learning Material / Handout & Folders,Presenting with Presence,Noida,808#136
+483,Adobe,Delivery,2017-11-02,2017-11-03,2610136,809,Do It Now-  How to Present,Cards,Noida,809#136
+484,Adobe,Delivery,2017-11-02,2017-11-03,2610136,810,Perfect Presentation,Book,Noida,810#136
+485,Adobe,Delivery,2017-11-02,2017-11-03,2610136,811,Stage Management,Presenting with Presence,Noida,811#136
+486,Edelweiss Financial Services Ltd.,Delivery,2017-11-01,2017-11-02,2410134,792,PI Profile Debrief Call,Personal Impact,Delhi NCR,792#134
+487,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-27,2017-11-01,1010132,770,Coaching Call 45 minutes,Leading the Way,At home,770#132
+488,Sopra India Pvt. Ltd.,Delivery,2017-10-30,2017-10-31,0910130,759,Coaching Call 45 minutes,Leading your team,Office,759#130
+489,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-30,2017-10-31,1010132,777,Coaching Call 45 minutes,Impact And Influence,At home,777#132
+490,Edelweiss Financial Services Ltd.,Delivery,2017-10-17,2017-10-31,2410134,791,Personal Impact Profile,Personal Impact,Delhi NCR,791#134
+491,Edelweiss Financial Services Ltd.,Delivery,2017-10-28,2017-10-28,2410134,800,Charisma Effect,Book,Mumbai,800#134
+492,Delhivery,Delivery,2017-10-26,2017-10-27,0809112,789,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,789#112
+493,GlaxoSmithKline,Delivery,2017-10-27,2017-10-27,2709125,744,Do It Now- Personal Impact,Cards,Gurgaon,744#125
+494,GlaxoSmithKline,Delivery,2017-10-27,2017-10-27,2709125,746,Workshop Full Day,Personal Impact,Gurgaon,746#125
+495,GlaxoSmithKline,Delivery,2017-10-27,2017-10-27,2709125,747,Progress IT ,Personal Impact,Gurgaon,747#125
+496,Delhivery,Delivery,2017-10-25,2017-10-26,0809112,788,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,788#112
+497,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-25,2017-10-26,2009122,717,Workshop Full Day,Impact And Influence,Bangalore,717#122
+498,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-25,2017-10-26,2009122,718,Charisma Effect,Impact And Influence,Bangalore,718#122
+499,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-25,2017-10-26,2009122,719,Learning Material / Handout & Folders,Impact And Influence,Bangalore,719#122
+500,PayPal India Pvt. Ltd.,Delivery,2017-10-25,2017-10-25,2410135,801,Workshop  Half Day Outside Delhi NCR,Personal Impact,Chennai,801#135
+501,PayPal India Pvt. Ltd.,Delivery,2017-10-25,2017-10-25,2410135,802,Learning Material / Handout & Folders,Personal Impact,Chennai,802#135
+502,FIL Research India Private Limited,Delivery,2017-10-24,2017-10-24,250570,505,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,505#70
+503,FIL Research India Private Limited,Delivery,2017-10-24,2017-10-24,250570,506,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,506#70
+504,Penguin Random House India Pvt Ltd,Delivery,2017-10-20,2017-10-20,250568,330,Executive Coaching (90 Mins) in Person,Session 8,Delhi NCR,330#68
+505,Genpact India Private Limited,Delivery,2017-10-16,2017-10-17,050778,443,Fruit Call (60 min),Leading the Way,Home,443#78
+506,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-16,2017-10-17,2009121,710,Workshop Full Day,Magnetic Client visit,Pune,710#121
+507,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-16,2017-10-17,2009121,711,Brick Connecting with Clients,Magnetic Client visit,Pune,711#121
+508,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-16,2017-10-17,2009121,712,Learning Material / Handout & Folders,Magnetic Client visit,Pune,712#121
+509,GlaxoSmithKline,Delivery,2017-10-13,2017-10-17,2709125,743,Charisma Effect,Book,Gurgaon,743#125
+510,Delhivery,Delivery,2017-10-16,2017-10-16,0809112,768,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,768#112
+511,Delhivery,Delivery,2017-10-16,2017-10-16,0809112,778,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,778#112
+512,USL Diageo,Delivery,2017-10-12,2017-10-13,2408103,602,Workshop Full Day,Presenting With Impact,Bangalore,602#103
+513,USL Diageo,Delivery,2017-10-12,2017-10-13,2408103,603,Stage Management,Presenting With Impact,Bangalore,603#103
+514,USL Diageo,Delivery,2017-10-12,2017-10-13,2408103,604,Learning Material / Handout & Folders,Presenting With Impact,Bangalore,604#103
+515,USL Diageo,Delivery,2017-10-12,2017-10-13,2408103,605,Perfect Presentation,Book,Bangalore,605#103
+516,USL Diageo,Delivery,2017-10-12,2017-10-13,2408103,606,Do It Now-  How to Present,Cards,Bangalore,606#103
+517,USL Diageo,Delivery,2017-10-12,2017-10-13,2408103,634,Certificate,Presenting With Impact,Bangalore,634#103
+518,GlaxoSmithKline,Delivery,2017-10-13,2017-10-13,2709125,739,Coaching Call 45 minutes,Personal Impact,Office,739#125
+519,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-12,2017-10-13,1010132,769,Workshop Full Day,Leading the Way,Chennai,769#132
+520,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-12,2017-10-13,1010132,773,Do It Now- How to engage talent ,Leading your team,Chennai,773#132
+521,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-12,2017-10-13,1010132,774,Leading your Team,Leading your team,Chennai,774#132
+522,USL Diageo,Delivery,2017-10-11,2017-10-12,080898,612,Workshop Full Day,Business Communication,Gurgaon,612#98
+523,USL Diageo,Delivery,2017-10-11,2017-10-12,080898,613,Brick Effective Communication,Book,Gurgaon,613#98
+524,USL Diageo,Delivery,2017-10-11,2017-10-12,080898,614,Certificate,Business Communication,Gurgaon,614#98
+525,USL Diageo,Delivery,2017-10-11,2017-10-12,080898,615,Learning Material / Handout & Folders,Business Communication,Gurgaon,615#98
+526,USL Diageo,Delivery,2017-10-11,2017-10-12,080898,616,Progress IT ,Business Communication,Gurgaon,616#98
+527,GlaxoSmithKline,Delivery,2017-10-12,2017-10-12,0610129,755,Workshop  Half Day Outside Delhi NCR,JUICE,Haridwar,755#129
+528,GlaxoSmithKline,Delivery,2017-10-12,2017-10-12,0610129,756,Learning Material / Handout & Folders,JUICE,Haridwar,756#129
+529,GlaxoSmithKline,Delivery,2017-10-12,2017-10-12,0610129,757,Certificate,JUICE,Haridwar,757#129
+530,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-10,2017-10-11,0109105,638,Workshop Full Day,Impact And Influence,Chennai,638#105
+531,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-10,2017-10-11,0109105,639,Learning Material / Handout & Folders,Impact And Influence,Chennai,639#105
+532,Delhivery,Delivery,2017-10-11,2017-10-11,0809112,727,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,727#112
+533,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-10,2017-10-11,2009121,707,Workshop Full Day,Magnetic Client visit,Chennai,707#121
+534,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-10,2017-10-11,2009121,708,Brick Connecting with Clients,Magnetic Client visit,Chennai,708#121
+535,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-10,2017-10-11,2009121,709,Learning Material / Handout & Folders,Magnetic Client visit,Chennai,709#121
+536,Delhivery,Delivery,2017-10-10,2017-10-10,0809112,726,Shadowing the Leader,Full Day Session,Gurgaon,726#112
+537,GlaxoSmithKline,Delivery,2017-10-10,2017-10-10,2709125,735,Orientation Session On Call (2 Hour),Personal Impact,Office,735#125
+538,Stryker Global Technology Center Private Limited,Delivery,2017-10-09,2017-10-10,2709126,736,Workshop Full Day,Presenting with Presence,Gurgaon,736#126
+539,Stryker Global Technology Center Private Limited,Delivery,2017-10-09,2017-10-10,2709126,737,Do It Now-  How to Present,Presenting with Presence,Gurgaon,737#126
+540,Stryker Global Technology Center Private Limited,Delivery,2017-10-09,2017-10-10,2709126,738,Perfect Presentation,Presenting with Presence,Gurgaon,738#126
+541,Stryker Global Technology Center Private Limited,Delivery,2017-10-09,2017-10-10,2709126,740,Pen Drive,Presenting with Presence,Gurgaon,740#126
+542,Stryker Global Technology Center Private Limited,Delivery,2017-10-09,2017-10-10,2709126,741,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,741#126
+543,Stryker Global Technology Center Private Limited,Delivery,2017-10-09,2017-10-10,2709126,742,Stage Management,Presenting with Presence,Gurgaon,742#126
+544,FIL Research India Private Limited,Delivery,2017-10-09,2017-10-09,250570,501,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,501#70
+545,FIL Research India Private Limited,Delivery,2017-10-09,2017-10-09,250570,502,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,502#70
+546,FIL Research India Private Limited,Delivery,2017-10-09,2017-10-09,250570,507,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,507#70
+547,FIL Research India Private Limited,Delivery,2017-10-09,2017-10-09,250570,508,Group Coaching Session (3 hrs) in person,Decision Making,Gurgaon,508#70
+548,Coca Cola India Private Limited,Delivery,2017-10-06,2017-10-06,120782,417,Workshop Full Day,Reaching Your Peak,Bangalore,417#82
+549,Coca Cola India Private Limited,Delivery,2017-10-06,2017-10-06,120782,418,Learning Material / Handout & Folders,Reaching Your Peak,Gurgaon,418#82
+550,MaxLife Insurance Company Ltd.,Delivery,2017-10-06,2017-10-06,0410127,751,Workshop Full Day,JUICE,Goa,751#127
+551,MaxLife Insurance Company Ltd.,Delivery,2017-10-06,2017-10-06,0410127,752,Learning Material / Handout & Folders,JUICE,Goa,752#127
+552,MaxLife Insurance Company Ltd.,Delivery,2017-10-06,2017-10-06,0410127,753,Certificate,JUICE,Goa,753#127
+553,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-10-04,2017-10-05,2009122,720,Coaching Call 45 minutes,Leading the Way,Call,720#122
+554,Genpact India Private Limited,Delivery,2017-09-29,2017-09-29,050778,444,Workshop  Half Day Within Delhi NCR,Impact And Influence,Gurgaon,444#78
+555,GlaxoSmithKline,Delivery,2017-09-29,2017-09-29,2709125,750,Personal Impact Profile,Personal Impact,Gurgaon,750#125
+556,Penguin Random House India Pvt Ltd,Delivery,2017-09-28,2017-09-28,250568,327,Executive Coaching (90 Mins) in Person,Session 5,Delhi NCR,327#68
+557,Edelweiss Financial Services Ltd.,Delivery,2017-09-28,2017-09-28,1509115,689,Workshop Full Day,Networking Skills,Mumbai,689#115
+558,Edelweiss Financial Services Ltd.,Delivery,2017-09-28,2017-09-28,1509115,690,Network Maps,Networking Skills,Mumbai,690#115
+559,Edelweiss Financial Services Ltd.,Delivery,2017-09-28,2017-09-28,1509115,691,Problem I solve through networking,Task,Mumbai,691#115
+560,Rio Tinto India Pvt Ltd,Delivery,2017-09-27,2017-09-28,1909117,687,Workshop Full Day,Reaching Your Peak,Gurgaon,687#117
+561,Rio Tinto India Pvt Ltd,Delivery,2017-09-27,2017-09-28,1909117,692,Learning Material / Handout & Folders,Reaching Your Peak,Gurgaon,692#117
+562,Rio Tinto India Pvt Ltd,Delivery,2017-09-27,2017-09-28,1909117,693,Certificate,Reaching Your Peak,Gurgaon,693#117
+563,Rio Tinto India Pvt Ltd,Delivery,2017-09-27,2017-09-28,1909117,694,Progress IT ,Reaching Your Peak,Gurgaon,694#117
+564,Rio Tinto India Pvt Ltd,Delivery,2017-09-27,2017-09-28,1909117,695,Group Coaching Session (60 Min) in person,Reaching Your Peak,Gurgaon,695#117
+565,Edelweiss Financial Services Ltd.,Delivery,2017-09-28,2017-09-28,1909119,697,Workshop  Half Day Outside Delhi NCR,Emerging Leaders Journey - Commitment & Drive,Mumbai,697#119
+566,Nestle India Limited,Delivery,2017-09-26,2017-09-27,050128,654,Workshop Full Day,Communication skills for Success,Moga,654#28
+567,Nestle India Limited,Delivery,2017-09-26,2017-09-27,050128,655,Brick Effective Communication,Communication skills for Success,Moga,655#28
+568,Edelweiss Financial Services Ltd.,Delivery,2017-09-27,2017-09-27,1509115,681,Workshop Full Day,Networking Skills,Mumbai,681#115
+569,Edelweiss Financial Services Ltd.,Delivery,2017-09-27,2017-09-27,1509115,682,Problem I solve through networking,Task,Mumbai,682#115
+570,Edelweiss Financial Services Ltd.,Delivery,2017-09-27,2017-09-27,1509115,683,Network Maps,Task,Mumbai,683#115
+571,Nestle India Limited,Delivery,2017-09-26,2017-09-27,2009123,723,Brick Effective Communication,Effective Communication,Moga,723#123
+572,Nestle India Limited,Delivery,2017-09-26,2017-09-27,2009123,724,Workshop Full Day,Effective Communication,Moga,724#123
+573,Nestle India Limited,Delivery,2017-09-26,2017-09-27,2009123,725,Learning Material / Handout & Folders,Effective Communication,Moga,725#123
+574,GlaxoSmithKline,Delivery,2017-09-27,2017-09-27,2709125,745,Learning Material / Handout & Folders,Personal Impact,Gurgaon,745#125
+575,FIL Research India Private Limited,Delivery,2017-09-26,2017-09-26,250570,498,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,498#70
+576,FIL Research India Private Limited,Delivery,2017-09-26,2017-09-26,250570,499,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,499#70
+577,Genpact India Private Limited,Delivery,2017-09-22,2017-09-22,090130,167,Implementation Day,Personal Impact,Hyderabad,167#30
+578,Maynardleigh Associates,Delivery,2017-09-20,2017-09-21,2308101,566,Workshop Full Day,Personal Impact,Mumbai,566#101
+579,USL Diageo,Delivery,2017-09-20,2017-09-21,2408103,597,Workshop Full Day,Presenting With Impact,Bangalore,597#103
+580,USL Diageo,Delivery,2017-09-20,2017-09-21,2408103,598,Stage Management,Presenting With Impact,Bangalore,598#103
+581,USL Diageo,Delivery,2017-09-20,2017-09-21,2408103,599,Learning Material / Handout & Folders,Presenting With Impact,Bangalore,599#103
+582,USL Diageo,Delivery,2017-09-20,2017-09-21,2408103,600,Perfect Presentation,Presenting With Impact,Bangalore,600#103
+583,USL Diageo,Delivery,2017-09-20,2017-09-21,2408103,601,Do It Now-  How to Present,Cards,Bangalore,601#103
+584,Nestle India Limited,Delivery,2017-09-20,2017-09-21,050128,651,Workshop Full Day,Communication skills for Success,Delhi,651#28
+585,Nestle India Limited,Delivery,2017-09-20,2017-09-21,050128,652,Brick Effective Communication,Communication skills for Success,Delhi,652#28
+586,Nestle India Limited,Delivery,2017-09-20,2017-09-21,050128,653,Learning Material / Handout & Folders,Communication skills for Success,Delhi,653#28
+587,USL Diageo,Delivery,2017-09-20,2017-09-21,2408103,635,Certificate,Presenting With Impact,Bangalore,635#103
+588,Delhivery,Delivery,2017-09-21,2017-09-21,0809112,704,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,704#112
+589,MACQUARIE GLOBAL SERVICES PRIVATE LIMITED ,Delivery,2017-09-20,2017-09-21,1909118,688,Workshop Full Day,Impact And Influence,Gurgaon,688#118
+590,MACQUARIE GLOBAL SERVICES PRIVATE LIMITED ,Delivery,2017-09-20,2017-09-21,1909118,698,Learning Material / Handout & Folders,Impact And Influence,Gurgaon,698#118
+591,MACQUARIE GLOBAL SERVICES PRIVATE LIMITED ,Delivery,2017-09-20,2017-09-21,1909118,699,Do It Now- Personal Impact,Impact And Influence,Gurgaon,699#118
+592,MACQUARIE GLOBAL SERVICES PRIVATE LIMITED ,Delivery,2017-09-20,2017-09-21,1909118,700,Charisma Effect,Impact And Influence,Gurgaon,700#118
+593,Edelweiss Financial Services Ltd.,Delivery,2017-09-21,2017-09-21,1909119,696,Workshop Full Day,Emerging Leaders Journey - Commitment & Drive,Mumbai,696#119
+594,Edelweiss Financial Services Ltd.,Delivery,2017-09-21,2017-09-21,1909119,702,Progress IT ,Emerging Leaders Journey - Commitment & Drive,Mumbai,702#119
+595,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-09-20,2017-09-21,2009122,713,Workshop Full Day,Leading the Way,Bangalore,713#122
+596,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-09-20,2017-09-21,2009122,714,Leading your Team,Leading the Way,Bangalore,714#122
+597,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-09-20,2017-09-21,2009122,715,Do It Now- How to engage talent ,Leading the Way,Bangalore,715#122
+598,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-09-20,2017-09-21,2009122,716,Learning Material / Handout & Folders,Leading the Way,Bangalore,716#122
+599,Delhivery,Delivery,2017-09-20,2017-09-20,0809112,669,Shadowing the Leader,Full Day Session,Gurgaon,669#112
+600,Delhivery,Delivery,2017-09-19,2017-09-20,0809112,670,Workshop Full Day,Vital leader,Gurgaon,670#112
+601,Delhivery,Delivery,2017-09-19,2017-09-20,0809112,671,Certificate,Framed,Gurgaon,671#112
+602,Delhivery,Delivery,2017-09-19,2017-09-20,0809112,672,Leading the Way,Vital leader,Gurgaon,672#112
+603,Delhivery,Delivery,2017-09-19,2017-09-20,0809112,673,Learning Material / Handout & Folders,Vital leader,Gurgaon,673#112
+604,Delhivery,Delivery,2017-09-19,2017-09-20,0809112,674,Progress IT ,Vital leader,Gurgaon,674#112
+605,Delhivery,Delivery,2017-09-19,2017-09-20,0809112,676,Do It Now- How to engage talent ,Cards,Gurgaon,676#112
+606,USL Diageo,Delivery,2017-09-18,2017-09-19,2408103,592,Workshop Full Day,Presenting With Impact,Bangalore,592#103
+607,USL Diageo,Delivery,2017-09-18,2017-09-19,2408103,593,Stage Management,Presenting With Impact,Bangalore,593#103
+608,USL Diageo,Delivery,2017-09-18,2017-09-19,2408103,594,Learning Material / Handout & Folders,Presenting With Impact,Bangalore,594#103
+609,USL Diageo,Delivery,2017-09-18,2017-09-19,2408103,595,Do It Now-  How to Present,Cards,Bangalore,595#103
+610,USL Diageo,Delivery,2017-09-18,2017-09-19,2408103,596,Perfect Presentation,Book,Bangalore,596#103
+611,USL Diageo,Delivery,2017-09-18,2017-09-19,2408103,636,Certificate,Presenting With Impact,Bangalore,636#103
+612,Bharti Infratel,Delivery,2017-09-18,2017-09-19,0209107,656,Workshop Full Day,Personal Impact,Gurgaon,656#107
+613,Bharti Infratel,Delivery,2017-09-18,2017-09-19,0209107,657,Charisma Effect,Book,Gurgaon,657#107
+614,Bharti Infratel,Delivery,2017-09-18,2017-09-19,0209107,658,Do It Now- Personal Impact,Cards,Gurgaon,658#107
+615,Bharti Infratel,Delivery,2017-09-18,2017-09-19,0209107,659,Learning Material / Handout & Folders,Personal Impact,Gurgaon,659#107
+616,HSBC Global Financial Centre,Delivery,2017-09-19,2017-09-19,1509116,684,Expresso Session outside NCR,Creative Problem Solving,Hyderabad,684#116
+617,Edelweiss Financial Services Ltd.,Delivery,2017-09-14,2017-09-19,1909119,701,Assessment Meter,Emerging Leaders Journey - Commitment & Drive,Mumbai,701#119
+618,McKinsey & Company,Delivery,2017-09-18,2017-09-18,141220,650,Workshop Full Day,Giving & Receiving Feedback,Mumbai,650#20
+619,HSBC Global Financial Centre,Delivery,2017-09-18,2017-09-18,0509110,663,Expresso Session within NCR,Creative Problem Solving,Chennai,663#110
+620,McKinsey & Company,Delivery,2017-09-18,2017-09-18,0809113,678,Workshop Full Day,Giving & Receiving Feedback,Mumbai,678#113
+621,McKinsey & Company,Delivery,2017-09-18,2017-09-18,0809113,679,Learning Material / Handout & Folders,Giving & Receiving Feedback,Mumbai,679#113
+622,USL Diageo,Delivery,2017-09-14,2017-09-15,080898,585,Workshop Full Day,Business Communication,Kolkata,585#98
+623,USL Diageo,Delivery,2017-09-14,2017-09-15,080898,586,Brick Effective Communication,Book,Kolkata,586#98
+624,USL Diageo,Delivery,2017-09-14,2017-09-15,080898,587,Certificate,Business Communication,Kolkata,587#98
+625,USL Diageo,Delivery,2017-09-14,2017-09-15,080898,588,Learning Material / Handout & Folders,Business Communication,Kolkata,588#98
+626,USL Diageo,Delivery,2017-09-14,2017-09-15,080898,589,Progress IT ,Business Communication,Kolkata,589#98
+627,Rio Tinto India Pvt Ltd,Delivery,2017-09-15,2017-09-15,2508104,575,Workshop Full Day,ACE Team,Gurgaon,575#104
+628,Rio Tinto India Pvt Ltd,Delivery,2017-09-15,2017-09-15,2508104,576,Learning Material / Handout & Folders,ACE Team,Gurgaon,576#104
+629,Rio Tinto India Pvt Ltd,Delivery,2017-09-15,2017-09-15,2508104,577,Ace Teams,Book,Gurgaon,577#104
+630,Rio Tinto India Pvt Ltd,Delivery,2017-09-15,2017-09-15,2508104,579,Certificate,Unframed,Gurgaon,579#104
+631,Rio Tinto India Pvt Ltd,Delivery,2017-09-15,2017-09-15,2508104,580,Trust Contract,ACE Team,Gurgaon,580#104
+632,Rio Tinto India Pvt Ltd,Delivery,2017-09-15,2017-09-15,2508104,581,Dipstick Survey,ACE Team,Gurgaon,581#104
+633,USL Diageo,Delivery,2017-09-14,2017-09-15,2408103,649,Workshop Full Day,Business Communication,Kolkata,649#103
+634,FIL Research India Private Limited,Delivery,2017-09-14,2017-09-14,160244,488,Executive Coaching (90 Mins) in Person,Session 12,Gurgaon,488#44
+635,Delhivery,Delivery,2017-09-14,2017-09-14,0809112,703,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,703#112
+636,HSBC Operations,Delivery,2017-09-13,2017-09-13,0109106,647,Workshop Full Day,Line Managers,Kolkata,647#106
+637,HSBC Operations,Delivery,2017-09-13,2017-09-13,0109106,648,Learning Material / Handout & Folders,Line Managers,Kolkata,648#106
+638,Delhivery,Delivery,2017-09-13,2017-09-13,0809112,675,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,675#112
+639,USL Diageo,Delivery,2017-09-11,2017-09-12,2408103,568,Workshop Full Day,Presenting With Impact,Kolkata,568#103
+640,USL Diageo,Delivery,2017-09-11,2017-09-12,2408103,569,Stage Management,Presenting With Impact,Kolkata,569#103
+641,USL Diageo,Delivery,2017-09-11,2017-09-12,2408103,570,Learning Material / Handout & Folders,Presenting With Impact,Kolkata,570#103
+642,USL Diageo,Delivery,2017-09-11,2017-09-12,2408103,571,Perfect Presentation,Book,Kolkata,571#103
+643,USL Diageo,Delivery,2017-09-11,2017-09-12,2408103,572,Do It Now-  How to Present,Cards,Kolkata,572#103
+644,USL Diageo,Delivery,2017-09-11,2017-09-12,2408103,637,Certificate,Presenting With Impact,Kolkata,637#103
+645,SRF Ltd.,Delivery,2017-09-11,2017-09-11,0609111,664,Workshop Full Day,JUICE,Gugaon,664#111
+646,SRF Ltd.,Delivery,2017-09-11,2017-09-11,0609111,665,Do It Now- Team Impact,Cards,Gugaon,665#111
+647,SRF Ltd.,Delivery,2017-09-11,2017-09-11,0609111,666,Learning Material / Handout & Folders,JUICE,Gugaon,666#111
+648,SRF Ltd.,Delivery,2017-09-11,2017-09-11,0609111,667,Certificate,JUICE,Gurgaon,667#111
+649,Delhivery,Delivery,2017-09-11,2017-09-11,0809112,668,Shadowing the Leader,Full Day Session,Gurgaon,668#112
+650,Rio Tinto India Pvt Ltd,Delivery,2017-09-08,2017-09-08,2508104,640,Workshop Full Day,ACE Team,Gurgaon,640#104
+651,Rio Tinto India Pvt Ltd,Delivery,2017-09-08,2017-09-08,2508104,641,Learning Material / Handout & Folders,ACE Team,Gurgaon,641#104
+652,Rio Tinto India Pvt Ltd,Delivery,2017-09-08,2017-09-08,2508104,642,Ace Teams,Book,Gurgaon,642#104
+653,Rio Tinto India Pvt Ltd,Delivery,2017-09-08,2017-09-08,2508104,644,Certificate,Unframed,Gurgaon,644#104
+654,Rio Tinto India Pvt Ltd,Delivery,2017-09-08,2017-09-08,2508104,646,Dipstick Survey,ACE Team,Gurgaon,646#104
+655,FIL Research India Private Limited,Delivery,2017-09-07,2017-09-07,250570,495,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,495#70
+656,FIL Research India Private Limited,Delivery,2017-09-07,2017-09-07,250570,496,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,496#70
+657,Ericsson India Private Limited,Delivery,2017-09-05,2017-09-05,070780,461,Workshop Full Day,Personal Impact,Gurgaon,461#80
+658,Ericsson India Private Limited,Delivery,2017-09-05,2017-09-05,070780,463,Learning Material / Handout & Folders,Personal Impact,Gurgaon,463#80
+659,Maynardleigh Associates,Delivery,2017-08-31,2017-09-01,020896,544,Open Workshop Presenting With Presence,Presenting with Presence,Delhi NCR,544#96
+660,Genpact India Private Limited,Delivery,2017-08-30,2017-08-31,050778,584,Coaching In Person (45 Min),Leading the Way,Home,584#78
+661,Penguin Random House India Pvt Ltd,Delivery,2017-08-30,2017-08-30,100560,287,Implementation Day,Communicating with Impact,Delhi NCR,287#60
+662,Coca Cola India Private Limited,Delivery,2017-08-30,2017-08-30,160675,556,Coaching Call 45 minutes,ACE Team,Testing IT Foster,556#75
+663,HSBC Global Financial Centre,Delivery,2017-08-30,2017-08-30,2408102,574,Expresso Session within NCR,Creative Problem Solving,Gurugram,574#102
+664,Penguin Random House India Pvt Ltd,Delivery,2017-08-29,2017-08-29,250568,326,Executive Coaching (90 Mins) in Person,Session 4,Delhi NCR,326#68
+665,Coca Cola India Private Limited,Delivery,2017-08-29,2017-08-29,160675,554,Executive Coaching  (60 Mins) Skype,Care,siwan,554#75
+666,Wells Fargo India Solutions Private Limited,Delivery,2017-08-29,2017-08-29,040777,583,Workshop Full Day,JUICE,Hyderabad,583#77
+667,Adobe,Delivery,2017-08-28,2017-08-29,2108100,560,Workshop Full Day,Presenting with Presence,Noida,560#100
+668,Adobe,Delivery,2017-08-28,2017-08-29,2108100,561,Learning Material / Handout & Folders,Presenting with Presence,Noida,561#100
+669,Adobe,Delivery,2017-08-28,2017-08-29,2108100,562,Do It Now-  How to Present,Cards,Noida,562#100
+670,Adobe,Delivery,2017-08-28,2017-08-29,2108100,563,Perfect Presentation,Book,Noida,563#100
+671,Adobe,Delivery,2017-08-28,2017-08-29,2108100,564,Stage Management,Presenting with Presence,Noida,564#100
+672,HSBC Global Financial Centre,Delivery,2017-08-28,2017-08-29,2408102,567,Expresso Session within NCR,Creative Problem Solving,Gurgaon,567#102
+673,Wells Fargo India Solutions Private Limited,Delivery,2017-08-28,2017-08-28,040777,582,Workshop Full Day,JUICE,Hyderabad,582#77
+674,FIL Research India Private Limited,Delivery,2017-08-25,2017-08-25,160244,487,Executive Coaching (90 Mins) in Person,Session 11,Gurgaon,487#44
+675,FIL Research India Private Limited,Delivery,2017-08-22,2017-08-22,250570,492,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,492#70
+676,FIL Research India Private Limited,Delivery,2017-08-22,2017-08-22,250570,493,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,493#70
+677,Ericsson India Private Limited,Delivery,2017-08-18,2017-08-18,070780,427,Do It Now- Personal Impact,Personal Impact,Gurgaon,427#80
+678,Ericsson India Private Limited,Delivery,2017-08-18,2017-08-18,070780,460,Workshop Full Day,Personal Impact,Gurgaon,460#80
+679,Ericsson India Private Limited,Delivery,2017-08-18,2017-08-18,070780,462,Learning Material / Handout & Folders,Personal Impact,Gurgaon,462#80
+680,USL Diageo,Delivery,2017-08-17,2017-08-18,080898,549,Workshop Full Day,Business Communication,Kolkata,549#98
+681,USL Diageo,Delivery,2017-08-17,2017-08-18,080898,550,Brick Effective Communication,Book,Kolkata,550#98
+682,USL Diageo,Delivery,2017-08-17,2017-08-18,080898,551,Certificate,Business Communication,Kolkata,551#98
+683,USL Diageo,Delivery,2017-08-17,2017-08-18,080898,552,Learning Material / Handout & Folders,Business Communication,Kolkata,552#98
+684,USL Diageo,Delivery,2017-08-17,2017-08-18,080898,553,Progress IT ,Business Communication,Kolkata,553#98
+685,HSBC Operations,Delivery,2017-08-17,2017-08-17,280794,521,Workshop Full Day,Line Managers,Hyderabad,521#94
+686,HSBC Operations,Delivery,2017-08-17,2017-08-17,280794,522,Learning Material / Handout & Folders,Line Managers,Hyderabad,522#94
+687,Penguin Random House India Pvt Ltd,Delivery,2017-08-16,2017-08-16,250568,325,Executive Coaching (90 Mins) in Person,Session 3,Delhi NCR,325#68
+688,Coca Cola India Private Limited,Delivery,2017-08-16,2017-08-16,160675,465,Brick Building Positive Relationships,Communicating with Impact,Genpact Gurgaon Testing,465#75
+689,Coca Cola India Private Limited,Delivery,2017-08-15,2017-08-15,160675,555,Executive Coaching  (60 Mins) Skype,Cards,siwan,555#75
+690,Maynardleigh Associates,Delivery,2017-08-14,2017-08-14,140786,543,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,543#86
+691,Delhivery,Delivery,2017-08-10,2017-08-11,310795,538,Workshop Full Day,Vital leader,Gurgaon,538#95
+692,Delhivery,Delivery,2017-08-10,2017-08-11,310795,539,Leading the Way,Book,Gurgaon,539#95
+693,Delhivery,Delivery,2017-08-10,2017-08-11,310795,540,Certificate,Framed,Gurgaon,540#95
+694,Delhivery,Delivery,2017-08-10,2017-08-11,310795,541,Learning Material / Handout & Folders,Vital leader,Gurgaon,541#95
+695,Delhivery,Delivery,2017-08-10,2017-08-11,310795,542,Progress IT ,Vital leader,Gurgaon,542#95
+696,IDFC Asset Management Company Ltd,Delivery,2017-08-10,2017-08-11,080897,545,Workshop Full Day,Vital leader,Mumbai,545#97
+697,IDFC Asset Management Company Ltd,Delivery,2017-08-10,2017-08-11,080897,546,Learning Material / Handout & Folders,Vital leader,Mumbai,546#97
+698,IDFC Asset Management Company Ltd,Delivery,2017-08-10,2017-08-11,080897,547,Do It Now- Personal Impact,Cards,Mumbai,547#97
+699,IDFC Asset Management Company Ltd,Delivery,2017-08-10,2017-08-11,080897,548,Charisma Effect,Book,Mumbai,548#97
+700,Genpact India Private Limited,Delivery,2017-08-09,2017-08-10,050778,436,Workshop Full Day,Leading the Way,Gurgaon,436#78
+701,Genpact India Private Limited,Delivery,2017-08-09,2017-08-10,050778,437,Learning Material / Handout & Folders,Leading the Way,Gurgaon,437#78
+702,Genpact India Private Limited,Delivery,2017-08-09,2017-08-10,050778,438,Do It Now- How to engage talent ,Leading the Way,Gurgaon,438#78
+703,Genpact India Private Limited,Delivery,2017-08-09,2017-08-10,050778,439,Leading your Team,Leading the Way,Gurgaon,439#78
+704,Genpact India Private Limited,Delivery,2017-08-10,2017-08-10,050778,442,Progress IT ,Leading the Way,MLA Office,442#78
+705,FIL Research India Private Limited,Delivery,2017-08-08,2017-08-08,160244,486,Executive Coaching (90 Mins) in Person,Session 10,Gurgaon,486#44
+706,FIL Research India Private Limited,Delivery,2017-08-08,2017-08-08,250570,489,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,489#70
+707,FIL Research India Private Limited,Delivery,2017-08-08,2017-08-08,250570,490,Group Coaching Session (3 hrs) in person,Executive Presence,Gurgaon,490#70
+708,Pearson India Education Services Pvt Ltd,Delivery,2017-08-03,2017-08-04,140673,454,Workshop Full Day,People Manager,Bangalore,454#73
+709,Pearson India Education Services Pvt Ltd,Delivery,2017-08-03,2017-08-04,140673,455,Learning Material / Handout & Folders,People Manager,Bangalore,455#73
+710,Pearson India Education Services Pvt Ltd,Delivery,2017-08-03,2017-08-04,140673,456,Do It Now- How to engage talent ,People Manager,Bangalore,456#73
+711,Soprasteria India Pvt Ltd,Delivery,2017-08-03,2017-08-04,170788,457,Workshop Full Day,Care,Noida,457#88
+712,Soprasteria India Pvt Ltd,Delivery,2017-08-03,2017-08-04,170788,458,Learning Material / Handout & Folders,Care,Noida,458#88
+713,Soprasteria India Pvt Ltd,Delivery,2017-08-03,2017-08-04,170788,459,Do It Now- How to engage talent ,Care,Noida,459#88
+714,Maynardleigh Associates,Delivery,2017-08-02,2017-08-02,140786,451,Workshop Full Day,Campus to Corporate,gurgaon,451#86
+715,Delhivery,Delivery,2017-08-01,2017-08-02,310795,533,Workshop Full Day,Vital leader,Gurgaon,533#95
+716,Delhivery,Delivery,2017-08-01,2017-08-02,310795,534,Leading the Way,Book,Gurgaon,534#95
+717,Delhivery,Delivery,2017-08-01,2017-08-02,310795,535,Learning Material / Handout & Folders,Vital leader,Gurgaon,535#95
+718,Delhivery,Delivery,2017-08-01,2017-08-02,310795,536,Certificate,Framed,Gurgaon,536#95
+719,Delhivery,Delivery,2017-08-01,2017-08-02,310795,537,Progress IT ,Vital leader,Gurgaon,537#95
+720,Ericsson India Private Limited,Delivery,2017-08-01,2017-08-01,070780,478,Workshop Full Day,Personal Impact,Gurgaon,478#80
+721,Ericsson India Private Limited,Delivery,2017-08-01,2017-08-01,070780,479,Charisma Effect,Book,Gurgaon,479#80
+722,Ericsson India Private Limited,Delivery,2017-08-01,2017-08-01,070780,480,Learning Material / Handout & Folders,Personal Impact,Gurgaon,480#80
+723,Coca Cola India Private Limited,Delivery,2017-07-29,2017-07-29,120782,415,Workshop Full Day,Reaching Your Peak,Gurgaon,415#82
+724,Coca Cola India Private Limited,Delivery,2017-07-29,2017-07-29,120782,416,Learning Material / Handout & Folders,Reaching Your Peak,Gurgaon,416#82
+725,Steria (India) Ltd,Delivery,2017-07-27,2017-07-28,190791,470,Workshop Full Day,Campus to Corporate,Noida,470#91
+726,Steria (India) Ltd,Delivery,2017-07-27,2017-07-28,190791,471,Campus to sopra,Campus to Corporate,Noida,471#91
+727,Steria (India) Ltd,Delivery,2017-07-27,2017-07-28,190791,472,Learning Material / Handout & Folders,Book,Noida,472#91
+728,Sopra India Pvt. Ltd.,Delivery,2017-07-27,2017-07-28,190792,473,Workshop Full Day,Campus to Corporate,Noida,473#92
+729,Sopra India Pvt. Ltd.,Delivery,2017-07-27,2017-07-28,190792,474,Learning Material / Handout & Folders,Campus to Corporate,Noida,474#92
+730,Sopra India Pvt. Ltd.,Delivery,2017-07-27,2017-07-28,190792,475,Campus to sopra,Book,Noida,475#92
+731,Wells Fargo India Solutions Private Limited,Delivery,2017-07-27,2017-07-27,040777,464,Workshop Full Day,JUICE,Hyderabad,464#77
+732,Steria (India) Ltd,Delivery,2017-07-26,2017-07-27,060779,412,Workshop Full Day,Campus to Corporate,Chennai,412#79
+733,Steria (India) Ltd,Delivery,2017-07-26,2017-07-27,060779,469,Campus to sopra,Campus to Corporate,Chennai,469#79
+734,Steria (India) Ltd,Delivery,2017-07-26,2017-07-27,060779,476,Learning Material / Handout & Folders,Campus to Corporate,Chennai,476#79
+735,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-07-25,2017-07-26,270351,467,Workshop Full Day,Power Presence,Chennai,467#51
+736,Genpact India Private Limited,Delivery,2017-07-25,2017-07-26,050778,441,Coaching Call 45 minutes,Impact And Influence,Home,441#78
+737,Penguin Random House India Pvt Ltd,Delivery,2017-07-25,2017-07-25,250568,324,Executive Coaching (90 Mins) in Person,Session 2,Delhi NCR,324#68
+738,FIL Research India Private Limited,Delivery,2017-07-24,2017-07-24,160244,485,Executive Coaching (90 Mins) in Person,Session 9,Gurgaon,485#44
+739,Ericsson India Private Limited,Delivery,2017-07-21,2017-07-21,070780,424,Workshop Full Day,Personal Impact,Gurgaon,424#80
+740,Ericsson India Private Limited,Delivery,2017-07-21,2017-07-21,070780,425,Charisma Effect,Personal Impact,Gurgaon,425#80
+741,Ericsson India Private Limited,Delivery,2017-07-21,2017-07-21,070780,426,Learning Material / Handout & Folders,Personal Impact,Gurgaon,426#80
+742,Coca Cola India Private Limited,Delivery,2017-07-19,2017-07-20,170789,468,Coaching Call 60 minutes,Care,noida,468#89
+743,Coca Cola India Private Limited,Delivery,2017-07-17,2017-07-18,160675,477,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Campus to Corporate,noida,477#75
+744,Groz Engineering Tools (P) Ltd., Groz Net Industries,Delivery,2017-07-15,2017-07-15,100781,421,Workshop Full Day,Connecting with Clients,Gurgaon,421#81
+745,Groz Engineering Tools (P) Ltd., Groz Net Industries,Delivery,2017-07-15,2017-07-15,100781,422,Learning Material / Handout & Folders,Connecting with Clients,Gugaon,422#81
+746,Groz Engineering Tools (P) Ltd., Groz Net Industries,Delivery,2017-07-15,2017-07-15,100781,423,Brick Connecting with Clients,Connecting with Clients,Gurgaon,423#81
+747,Maynardleigh Associates,Delivery,2017-07-15,2017-07-15,140786,448,Workshop Full Day,ACE Team,Gurgaon,448#86
+748,Pearson India Education Services Pvt Ltd,Delivery,2017-07-13,2017-07-14,140673,391,Workshop Full Day,People Manager,Noida,391#73
+749,Pearson India Education Services Pvt Ltd,Delivery,2017-07-13,2017-07-14,140673,452,Learning Material / Handout & Folders,People Leadership,Noida,452#73
+750,Pearson India Education Services Pvt Ltd,Delivery,2017-07-13,2017-07-14,140673,453,Do It Now- How to engage talent ,People Leadership,Noida,453#73
+751,HSBC Global Financial Centre,Delivery,2017-07-14,2017-07-14,130785,445,Workshop  Half Day Within Delhi NCR,Pause  Align & Act,Gurgaon,445#85
+752,Penguin Random House India Pvt Ltd,Delivery,2017-07-13,2017-07-13,250568,322,Tripartite Agreement in-person Meeting (60 min),Executive Coaching,Delhi NCR,322#68
+753,Penguin Random House India Pvt Ltd,Delivery,2017-07-13,2017-07-13,250568,323,Executive Coaching (90 Mins) in Person,Session 1,Delhi NCR,323#68
+754,SRF Ltd.,Delivery,2017-07-13,2017-07-13,120783,413,Workshop Full Day,Campus to Corporate,Gurgaon,413#83
+755,SRF Ltd.,Delivery,2017-07-13,2017-07-13,120783,414,Learning Material / Handout & Folders,Campus to Corporate,Gurgaon,414#83
+756,FIL Research India Private Limited,Delivery,2017-07-10,2017-07-10,160244,484,Executive Coaching (90 Mins) in Person,Session 8,Gurgaon,484#44
+757,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-07-07,2017-07-07,040127,194,Workshop Full Day,Interviewing Skills,Gurgaon,194#27
+758,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-07-06,2017-07-07,040127,261,Learning Material / Handout & Folders,Interviewing Skills,Gurgaon,261#27
+759,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-07-06,2017-07-07,040127,262,Interview Analysis Feedback,Interviewing Skills,Gurgaon,262#27
+760,Delhivery,Delivery,2017-07-06,2017-07-07,150674,392,Workshop Full Day,Vital leader,Gurgaon,392#74
+761,Delhivery,Delivery,2017-07-06,2017-07-07,150674,393,Leading the Way,Book,Gurgaon,393#74
+762,Delhivery,Delivery,2017-07-06,2017-07-07,150674,394,Learning Material / Handout & Folders,Vital leader,Gurgaon,394#74
+763,Delhivery,Delivery,2017-07-06,2017-07-07,150674,395,Certificate,Framed,Gurgaon,395#74
+764,Delhivery,Delivery,2017-07-06,2017-07-07,150674,446,Progress IT ,Vital leader,Gurgaon,446#74
+765,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,220676,402,Workshop Full Day,Connecting with Clients,Jaipur,402#76
+766,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,220676,403,Charisma Effect,Connecting with Clients,Jaipur,403#76
+767,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,220676,404,Learning Material / Handout & Folders,Connecting with Clients,Jaipur,404#76
+768,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,050778,409,Workshop Full Day,Impact And Influence,Gurugram,409#78
+769,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,050778,433,Charisma Effect,Impact And Influence,Gurgaon,433#78
+770,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,050778,434,Learning Material / Handout & Folders,Impact And Influence,Gurgaon,434#78
+771,Genpact India Private Limited,Delivery,2017-07-06,2017-07-07,050778,435,Do It Now- Personal Impact,Impact And Influence,Gurgaon,435#78
+772,Confederation of Indian Industry,Delivery,2017-06-29,2017-07-01,150563,300,Workshop Full Day,Executive Presence,Gurgaon,300#63
+773,Confederation of Indian Industry,Delivery,2017-06-29,2017-06-29,150563,302,Charisma Effect,Book,Gurgaon,302#63
+774,Confederation of Indian Industry,Delivery,2017-06-29,2017-06-29,150563,303,Do It Now-  How to Present,Executive Presence,Gurgaon,303#63
+775,Confederation of Indian Industry,Delivery,2017-06-29,2017-06-29,150563,304,Learning Material / Handout & Folders,Executive Presence,Gurgaon,304#63
+776,Penguin Random House India Pvt Ltd,Delivery,2017-06-28,2017-06-28,250568,321,Workshop  Half Day Within Delhi NCR,Inciting Sessions,Delhi NCR,321#68
+777,Penguin Random House India Pvt Ltd,Delivery,2017-06-25,2017-06-25,100560,314,Charisma Effect,Book,Delhi NCR,314#60
+778,Penguin Random House India Pvt Ltd,Delivery,2017-06-25,2017-06-25,100560,315,Do It Now- Personal Impact,Cards,Delhi NCR,315#60
+779,Genpact India Private Limited,Delivery,2017-06-22,2017-06-23,090130,169,Coaching In Person (60 MIn),Personal Impact,Gurgaon,169#30
+780,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-06-23,2017-06-23,280458,344,Workshop Full Day,Storytelling,Gurgaon,344#58
+781,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-06-23,2017-06-23,280458,345,Learning Material / Handout & Folders,Storytelling,Gurgaon,345#58
+782,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-06-23,2017-06-23,280458,346,Perfect Presentation,Book,Gurgaon,346#58
+783,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-06-23,2017-06-23,280458,396,Progress IT ,Storytelling,Gurgaon,396#58
+784,Penguin Random House India Pvt Ltd,Delivery,2017-06-23,2017-06-23,100560,286,Coaching Call 45 minutes,Communicating with Impact,Delhi NCR,286#60
+785,HSBC Global Financial Centre,Delivery,2017-06-19,2017-06-21,150562,298,Implementation Day,Implementation Day,Krakow  Poland,298#62
+786,FIL Research India Private Limited,Delivery,2017-06-21,2017-06-21,250570,335,Workshop Full Day,Group Assessment Center,Gurgaon,335#70
+787,FIL Research India Private Limited,Delivery,2017-06-20,2017-06-20,250570,334,Workshop Full Day,Group Assessment Center,Gurgaon,334#70
+788,FIL Research India Private Limited,Delivery,2017-06-19,2017-06-19,250570,333,Workshop Full Day,Group Assessment Center,Gurgaon,333#70
+789, Nabhiraja Software Design Pvt. Ltd.,Delivery,2017-06-15,2017-06-16,260571,359,Workshop Full Day,Personal Impact,Mumbai,359#71
+790, Nabhiraja Software Design Pvt. Ltd.,Delivery,2017-06-15,2017-06-16,260571,360,Learning Material / Handout & Folders,Personal Impact,Mumbai,360#71
+791, Nabhiraja Software Design Pvt. Ltd.,Delivery,2017-06-15,2017-06-16,260571,361,Charisma Effect,Book,Mumbai,361#71
+792, Nabhiraja Software Design Pvt. Ltd.,Delivery,2017-06-15,2017-06-16,260571,362,Do It Now- Personal Impact,Cards,Mumbai,362#71
+793, Nabhiraja Software Design Pvt. Ltd.,Delivery,2017-06-15,2017-06-16,260571,363,Progress IT ,Personal Impact,Mumbai,363#71
+794, Nabhiraja Software Design Pvt. Ltd.,Delivery,2017-06-15,2017-06-16,260571,364,Coaching Call 45 minutes,Personal Impact,Mumbai,364#71
+795,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-06-07,2017-06-07,040127,192,Workshop Full Day,Implementation Day,Gurgaon,192#27
+796,Genpact India Private Limited,Delivery,2017-06-06,2017-06-07,050778,440,Tripartite Agreement Call(60 Mins),Leader Wiithin,Gurgaon,440#78
+797,McKinsey & Company,Delivery,2017-06-06,2017-06-06,141220,340,Workshop Full Day,Giving & Receiving Feedback,Mumbai,340#20
+798,McKinsey & Company,Delivery,2017-06-06,2017-06-06,141220,341,Learning Material / Handout & Folders,Elevate,Mumbai,341#20
+799,McKinsey & Company,Delivery,2017-06-02,2017-06-02,141220,338,Workshop Full Day,Elevate,Mumbai,338#20
+800,McKinsey & Company,Delivery,2017-06-02,2017-06-02,141220,339,Learning Material / Handout & Folders,Elevate,Mumbai,339#20
+801,FIL Research India Private Limited,Delivery,2017-06-02,2017-06-02,250570,332,Workshop Full Day,Group Assessment Center,Gurgaon,332#70
+802,FIL Research India Private Limited,Delivery,2017-06-01,2017-06-01,250570,331,Workshop Full Day,Group Assessment Center,Gurgaon,331#70
+803,McKinsey & Company,Delivery,2017-05-30,2017-05-30,141220,336,Workshop Full Day,Elevate,Gurgaon,336#20
+804,McKinsey & Company,Delivery,2017-05-30,2017-05-30,141220,337,Learning Material / Handout & Folders,Elevate,Gurgaon,337#20
+805,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-25,2017-05-27,280459,299,Workshop Full Day,Building Your Team,Gurgaon,299#59
+806,Genpact India Private Limited,Delivery,2017-05-24,2017-05-25,230567,317,Workshop Full Day,Connecting with Clients,Jaipur,317#67
+807,Genpact India Private Limited,Delivery,2017-05-24,2017-05-25,230567,318,Charisma Effect,Connecting with Clients,Jaipur,318#67
+808,Genpact India Private Limited,Delivery,2017-05-24,2017-05-25,230567,319,Learning Material / Handout & Folders,Connecting with Clients,Jaipur,319#67
+809,Genpact India Private Limited,Delivery,2017-05-24,2017-05-25,220676,428,Workshop Full Day,Connecting with Clients,Jaipur,428#76
+810,Genpact India Private Limited,Delivery,2017-05-24,2017-05-25,220676,429,Learning Material / Handout & Folders,Connecting with Clients,Jaipur,429#76
+811,Genpact India Private Limited,Delivery,2017-05-24,2017-05-25,220676,430,Brick Connecting with Clients,Connecting with Clients,Jaipur,430#76
+812,Genpact India Private Limited,Delivery,2017-05-22,2017-05-24,190565,310,Workshop Full Day - Curiouser & Curiouser,Collaboration,Hyderabad,310#65
+813,Genpact India Private Limited,Delivery,2017-05-22,2017-05-24,190565,311,Learning Material / Handout & Folders,Collaboration,Hyderabad,311#65
+814,Genpact India Private Limited,Delivery,2017-05-22,2017-05-24,190565,312,Do It Now- Team Impact,Cards,Hyderabad,312#65
+815,Genpact India Private Limited,Delivery,2017-05-22,2017-05-24,190565,313,Trust Contract,Collaboration,Hyderabad,313#65
+816,Genpact India Private Limited,Delivery,2017-05-23,2017-05-23,140348,226,Workshop Full Day,Implementation Day,Gurgaon,226#48
+817,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-22,2017-05-23,160564,305,Workshop Full Day,Experiential Facilitator,Gurgaon,305#64
+818,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-22,2017-05-23,160564,307,Learning Material / Handout & Folders,Experiential Facilitator,Gurgaon,307#64
+819,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-22,2017-05-23,160564,308,Perfect Presentation,Book,Gurgaon,308#64
+820,HSBC Global Financial Centre,Delivery,2017-05-19,2017-05-19,100131,309,,Line Managers,Gurugram,309#31
+821,Penguin Random House India Pvt Ltd,Delivery,2017-05-19,2017-05-19,100560,285,Workshop Full Day,Communicating with Impact,Gurgaon,285#60
+822,Penguin Random House India Pvt Ltd,Delivery,2017-05-19,2017-05-19,100560,316,Learning Material / Handout & Folders,Communicating with Impact,Delhi NCR,316#60
+823,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-17,2017-05-17,040127,193,Workshop Full Day,Interviewing Skills,Gurgaon,193#27
+824,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-17,2017-05-17,040127,260,Interview Analysis Feedback,Interviewing Skills,Gurgaon,260#27
+825,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-16,2017-05-17,040127,263,Learning Material / Handout & Folders,Interviewing Skills,Gurgaon,263#27
+826,Nestle India Limited,Delivery,2017-05-11,2017-05-12,050128,292,Workshop Full Day,Communication skills for Success,Mumbai,292#28
+827,Nestle India Limited,Delivery,2017-05-11,2017-05-12,050128,293,Learning Material / Handout & Folders,Communication skills for Success,Mumbai,293#28
+828,Nestle India Limited,Delivery,2017-05-11,2017-05-12,050128,294,Brick Effective Communication,Communication skills for Success,Mumbai,294#28
+829,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-09,2017-05-10,280459,272,Workshop Full Day,Experiential Facilitator,Gurgaon,272#59
+830,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-09,2017-05-10,280459,295,Learning Material / Handout & Folders,Experiential Facilitator,Gurgaon,295#59
+831,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-05-09,2017-05-10,280459,306,Tripartite Agreement Call(60 Mins),Book,Gurgaon,306#59
+832,McKinsey & Company,Delivery,2017-05-05,2017-05-05,141220,271,Workshop Full Day,Elevate,Gurugram,271#20
+833,McKinsey & Company,Delivery,2017-05-05,2017-05-05,141220,273,Learning Material / Handout & Folders,Elevate,Gurugram,273#20
+834,Dorling Kindersley India Pvt Ltd,Delivery,2017-05-05,2017-05-05,080240,179,Coaching In Person (60 MIn),Leading your team,Noida,179#40
+835,McKinsey & Company,Delivery,2017-05-02,2017-05-02,141220,269,,Time Management,Gurugram,269#20
+836,McKinsey & Company,Delivery,2017-05-02,2017-05-02,141220,270,Learning Material / Handout & Folders,Time Management,Gurugram,270#20
+837,McKinsey & Company,Delivery,2017-04-28,2017-04-28,141220,267,Workshop Full Day,Elevate,Mumbai,267#20
+838,McKinsey & Company,Delivery,2017-04-28,2017-04-28,141220,268,Learning Material / Handout & Folders,Elevate,Mumbai,268#20
+839,Genpact India Private Limited,Delivery,2017-04-27,2017-04-28,140348,225,Coaching Call 45 minutes,Impact And Influence,Gurgaon,225#48
+840,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-04-25,2017-04-26,270351,241,Workshop Full Day,Power Presence,Chennai,241#51
+841,SRF Ltd.,Delivery,2017-04-24,2017-04-25,081217,264,Workshop Full Day,Connecting with Clients,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,264#17
+842,SRF Ltd.,Delivery,2017-04-24,2017-04-25,081217,265,Learning Material / Handout & Folders,Connecting with Clients,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,265#17
+843,FIL Research India Private Limited,Delivery,2017-04-24,2017-04-24,160244,215,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,215#44
+844,Nestle India Limited,Delivery,2017-04-20,2017-04-21,050128,242,Brick Effective Communication,Communication skills for Success,Delhi,242#28
+845,Nestle India Limited,Delivery,2017-04-20,2017-04-21,050128,243,Learning Material / Handout & Folders,Communication skills for Success,Delhi,243#28
+846,Nestle India Limited,Delivery,2017-04-20,2017-04-21,050128,244,Workshop Full Day,Communication skills for Success,Delhi,244#28
+847,Genpact India Private Limited,Delivery,2017-04-21,2017-04-21,050778,431,Workshop Full Day,Leader Wiithin,Gurgaon,431#78
+848,Genpact India Private Limited,Delivery,2017-04-21,2017-04-21,050778,432,Learning Material / Handout & Folders,Leader Wiithin,Gurgaon,432#78
+849,HSBC Global Financial Centre,Delivery,2017-04-18,2017-04-18,100131,116,,Leading your team,Chennai,116#31
+850,Genpact India Private Limited,Delivery,2017-04-17,2017-04-18,140348,224,Workshop Full Day,Influencing at work,Gurgaon,224#48
+851,SRF Ltd.,Delivery,2017-04-11,2017-04-12,081217,237,Workshop Full Day,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,237#17
+852,SRF Ltd.,Delivery,2017-04-11,2017-04-12,081217,238,Learning Material / Handout & Folders,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,238#17
+853,SRF Ltd.,Delivery,2017-04-11,2017-04-12,081217,239,Leading your Team,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,239#17
+854,SRF Ltd.,Delivery,2017-04-11,2017-04-12,081217,240,,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,240#17
+855,Mahindra & Mahindra Ltd,Delivery,2017-04-11,2017-04-12,300353,25,Workshop Full Day,Personal Impact,Mumbai,25#53
+856,FIL Research India Private Limited,Delivery,2017-04-10,2017-04-10,160244,214,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,214#44
+857,Genpact India Private Limited,Delivery,2017-04-06,2017-04-07,140348,228,Learning Material / Handout & Folders,Impact And Influence,Gurgaon,228#48
+858,SRF Ltd.,Delivery,2017-04-04,2017-04-05,081217,233,Workshop Full Day,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,233#17
+859,SRF Ltd.,Delivery,2017-04-04,2017-04-05,081217,234,Learning Material / Handout & Folders,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,234#17
+860,SRF Ltd.,Delivery,2017-04-04,2017-04-05,081217,236,,ACE Team,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,236#17
+861,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-04-03,2017-04-03,040127,188,Workshop Full Day,Interviewing Skills,Gurgaon,188#27
+862,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-04-03,2017-04-03,040127,189,Learning Material / Handout & Folders,Interviewing Skills,Gurgaon,189#27
+863,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-04-03,2017-04-03,040127,190,Interview Analysis Feedback,Interviewing Skills,Gurgaon,190#27
+864,Dunnhumby IT Services India Pvt. Ltd,Delivery,2017-04-03,2017-04-03,040127,191,Interview Tool Kit,Interviewing Skills,Gurgaon,191#27
+865,Genpact India Private Limited,Delivery,2017-03-30,2017-03-31,090130,168,Coaching In Person (60 MIn),Personal Impact,Gurgaon,168#30
+866,SRF Ltd.,Delivery,2017-03-28,2017-03-29,081217,230,Workshop Full Day,Leading the Way,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,230#17
+867,SRF Ltd.,Delivery,2017-03-28,2017-03-29,081217,231,Learning Material / Handout & Folders,Leading the Way,The Woods  H- Block  Greenwood City  Sector 46  Gurugram  Haryana 122001,231#17
+868,SRF Ltd.,Delivery,2017-03-27,2017-03-27,281113,62,Implementation Day,ACE Team,Gurgaon,62#13
+869,HSBC Global Financial Centre,Delivery,2017-03-24,2017-03-24,100131,117,,Team Building,Hyderabad,117#31
+870,New Holland Fiat India Pvt. Ltd,Delivery,2017-03-23,2017-03-24,030236,155,Workshop Full Day,Building Your Team,Noida,155#36
+871,FIL Research India Private Limited,Delivery,2017-03-24,2017-03-24,160244,213,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,213#44
+872,Max Hypermarket India Pvt. Ltd.,Delivery,2017-03-22,2017-03-22,160350,24,Workshop Full Day,Team Building,Bangalore,24#50
+873,Max Hypermarket India Pvt. Ltd.,Delivery,2017-03-22,2017-03-22,160350,229,Learning Material / Handout & Folders,Team Building,Bangalore,229#50
+874,Fortis Healthcare Limited,Delivery,2017-03-20,2017-03-21,080239,176,Workshop Full Day,Reaching Your Peak,Chennai,176#39
+875,SRF Ltd.,Delivery,2017-03-16,2017-03-17,081217,69,Workshop Full Day,ACE Team,The Woods  Block H  Gurgaon Sector 46,69#17
+876,Sumitomo Corporation,Delivery,2017-03-17,2017-03-17,080347,13,Workshop Full Day,Learning Agility Workshop,Delhi,13#47
+877,Sumitomo Corporation,Delivery,2017-03-17,2017-03-17,080347,221,Leading your Team,Dramatic shift,Delhi,221#47
+878,Sumitomo Corporation,Delivery,2017-03-17,2017-03-17,080347,222,Learning Material / Handout & Folders,Learning Agility Workshop,Delhi,222#47
+879,HSBC Global Financial Centre,Delivery,2017-03-16,2017-03-16,100132,119,Workshop Full Day,Leading your team,Krakow  Poland,119#32
+880,FIL Research India Private Limited,Delivery,2017-03-16,2017-03-16,180134,217,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,217#34
+881,Fortis Healthcare Limited,Delivery,2017-03-15,2017-03-16,080239,175,Workshop Full Day,Reaching Your Peak,Delhi/NCR,175#39
+882,Fortis Healthcare Limited,Delivery,2017-03-09,2017-03-10,080239,174,Workshop Full Day,Reaching Your Peak,Delhi/NCR,174#39
+883,Pernod Ricard India (P) Limited,Delivery,2017-03-10,2017-03-10,060345,206,Workshop Full Day,Collaboration,Gurgaon,206#45
+884,Pernod Ricard India (P) Limited,Delivery,2017-03-10,2017-03-10,060345,207,,Collaboration,Gurgaon,207#45
+885,Pernod Ricard India (P) Limited,Delivery,2017-03-10,2017-03-10,060345,208,Learning Material / Handout & Folders,Collaboration,Gurgaon,208#45
+886,Coca Cola India Private Limited,Delivery,2017-03-10,2017-03-10,060346,202,,Facilitation Skills,Gurgaon,202#46
+887,Coca Cola India Private Limited,Delivery,2017-03-10,2017-03-10,060346,203,Leading your Team,Presenting with Presence,Gurgaon,203#46
+888,Coca Cola India Private Limited,Delivery,2017-03-10,2017-03-10,060346,204,,,Gurgaon,204#46
+889,Coca Cola India Private Limited,Delivery,2017-03-10,2017-03-10,060346,205,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,205#46
+890,FIL Research India Private Limited,Delivery,2017-03-08,2017-03-08,140242,186,,Diversity,Gurgaon,186#42
+891,FIL Research India Private Limited,Delivery,2017-03-08,2017-03-08,160244,212,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,212#44
+892,McKinsey & Company,Delivery,2017-03-07,2017-03-07,141220,77,Workshop Full Day,Giving & Receiving Feedback,Mumbai,77#20
+893,McKinsey & Company,Delivery,2017-03-07,2017-03-07,141220,223,Learning Material / Handout & Folders,Giving & Receiving Feedback,Mumbai,223#20
+894,Fortis Healthcare Limited,Delivery,2017-03-06,2017-03-07,080239,173,Workshop Full Day,Reaching Your Peak,Bangalore,173#39
+895,Dorling Kindersley India Pvt Ltd,Delivery,2017-03-06,2017-03-06,080240,178,Coaching In Person (60 MIn),Leading your team,Noida,178#40
+896,FIL Research India Private Limited,Delivery,2017-03-03,2017-03-03,180134,216,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,216#34
+897,Genpact India Private Limited,Delivery,2017-03-03,2017-03-03,140243,187,Workshop Full Day,Implementation Day,Gurgaon,187#43
+898,Stryker India,Delivery,2017-03-01,2017-03-02,080237,164,Workshop Full Day,Presenting with Presence,Gurgaon,164#37
+899,Stryker India,Delivery,2017-03-01,2017-03-02,080237,209,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,209#37
+900,Stryker India,Delivery,2017-03-01,2017-03-02,080237,210,Leading your Team,Presenting with Presence,Gurgaon,210#37
+901,Stryker India,Delivery,2017-03-01,2017-03-02,080237,211,Stage Management,Presenting with Presence,Gurgaon,211#37
+902,Fortis Healthcare Limited,Delivery,2017-02-28,2017-03-01,080239,172,Workshop Full Day,Reaching Your Peak,Mumbai,172#39
+903,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-02-27,2017-02-28,090129,140,Workshop Full Day,Personal Impact,Bangalore,140#29
+904,HSBC Global Financial Centre,Delivery,2017-02-28,2017-02-28,100132,118,Workshop Full Day,Leading your team,Gurgaon,118#32
+905,HSBC Global Financial Centre,Delivery,2017-02-24,2017-02-24,100131,156,,Team Building,Gurgaon,156#31
+906,HSBC Global Financial Centre,Delivery,2017-02-23,2017-02-23,100131,136,,Team Building,Gurgaon,136#31
+907,Coca Cola India Private Limited,Delivery,2017-02-20,2017-02-23,010235,146,Workshop Full Day,Presenting with Presence,Gurgaon,146#35
+908,Coca Cola India Private Limited,Delivery,2017-02-20,2017-02-23,010235,147,Stage Management,Presenting with Presence,Gurgaon,147#35
+909,Coca Cola India Private Limited,Delivery,2017-02-20,2017-02-23,010235,148,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,148#35
+910,Coca Cola India Private Limited,Delivery,2017-02-20,2017-02-23,010235,149,Leading your Team,Presenting with Presence,Gurgaon,149#35
+911,Coca Cola India Private Limited,Delivery,2017-02-20,2017-02-23,010235,150,,Presenting with Presence,Gurgaon,150#35
+912,Genpact India Private Limited,Delivery,2017-02-21,2017-02-22,090130,121,Workshop Full Day,Personal Impact,Hyderabad,121#30
+913,Genpact India Private Limited,Delivery,2017-02-21,2017-02-22,090130,161,,,Hyderabad,161#30
+914,Genpact India Private Limited,Delivery,2017-02-21,2017-02-22,090130,162,Charisma Effect,Book,Hyderabad,162#30
+915,Genpact India Private Limited,Delivery,2017-02-21,2017-02-22,090130,163,Learning Material / Handout & Folders,Personal Impact,Hyderabad,163#30
+916,HSBC Global Financial Centre,Delivery,2017-02-22,2017-02-22,100131,160,,Team Building,Gurgaon,160#31
+917,SRF Ltd.,Delivery,2017-02-20,2017-02-21,081217,70,Learning Material / Handout & Folders,ACE Team,Gurgaon,70#17
+918,SRF Ltd.,Delivery,2017-02-20,2017-02-21,081217,71,Ace Teams,Book,Gurgaon,71#17
+919,SRF Ltd.,Delivery,2017-02-20,2017-02-21,081217,72,,,Gurgaon,72#17
+920,HSBC Global Financial Centre,Delivery,2017-02-21,2017-02-21,100131,135,,Team Building,Gurgaon,135#31
+921,HSBC Global Financial Centre,Delivery,2017-02-20,2017-02-20,100131,151,,Team Building,Gurgaon,151#31
+922,Edelweiss Financial Services Ltd.,Delivery,2017-02-18,2017-02-18,291224,88,Workshop Full Day,Collaboration,Dubai,88#24
+923,Edelweiss Financial Services Ltd.,Delivery,2017-02-18,2017-02-18,291224,90,,,Dubai,90#24
+924,Edelweiss Financial Services Ltd.,Delivery,2017-02-18,2017-02-18,291224,91,Learning Material / Handout & Folders,Collaboration,Dubai,91#24
+925,Edelweiss Financial Services Ltd.,Delivery,2017-02-18,2017-02-18,291224,92,Trust Contract,Collaboration,Dubai,92#24
+926,SRF Ltd.,Delivery,2017-02-16,2017-02-17,281113,61,Coaching Call 45 minutes,ACE Team,Gurgaon,61#13
+927,Edelweiss Financial Services Ltd.,Delivery,2017-02-17,2017-02-17,291224,200,Ace Teams,Book,Mumbai,200#24
+928,New Holland Fiat India Pvt. Ltd,Delivery,2017-02-16,2017-02-17,030236,154,Workshop Full Day,Building Your Team,Noida,154#36
+929,Penguin Random House India Pvt Ltd,Delivery,2017-02-17,2017-02-17,080238,165,Implementation Day,Personal Impact,Le Meridian,165#38
+930,MaxLife Insurance Company Ltd.,Delivery,2017-02-17,2017-02-17,140241,198,Expresso Session outside NCR,Change Management,Pondicherry,198#41
+931,MaxLife Insurance Company Ltd.,Delivery,2017-02-17,2017-02-17,140241,199,Learning Material / Handout & Folders,Change Management,Pondicherry,199#41
+932,FIL Research India Private Limited,Delivery,2017-02-16,2017-02-16,180134,152,Executive Coaching (90 Mins) in Person,,Gurgaon,152#34
+933,Penguin Random House India Pvt Ltd,Delivery,2017-02-16,2017-02-16,080238,166,Group Coaching Call (60 Min),Personal Impact,Over the Phone,166#38
+934,FIL Research India Private Limited,Delivery,2017-02-16,2017-02-16,160244,197,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,197#44
+935,Fortis Healthcare Limited,Delivery,2017-02-14,2017-02-15,080239,171,Workshop Full Day,Reaching Your Peak,Delhi/NCR,171#39
+936,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-02-08,2017-02-09,091219,126,Workshop Full Day,Impact And Influence,Hyderabad,126#19
+937,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-02-08,2017-02-09,091219,127,Workshop Full Day,Impact And Influence,Chennai,127#19
+938,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-02-08,2017-02-09,091219,142,Workshop Full Day,Impact And Influence,Bangalore,142#19
+939,Dorling Kindersley India Pvt Ltd,Delivery,2017-02-09,2017-02-09,080240,177,Coaching In Person (60 MIn),Leading your team,Noida,177#40
+940,Fortis Healthcare Limited,Delivery,2017-02-07,2017-02-08,080239,170,Workshop Full Day,Reaching Your Peak,Mohali,170#39
+941,SRF Ltd.,Delivery,2017-02-02,2017-02-03,281113,60,Workshop Full Day,ACE Team,Gurgaon,60#13
+942,SRF Ltd.,Delivery,2017-02-02,2017-02-03,281113,63,Ace Teams,Book,Gurgaon,63#13
+943,Genpact India Private Limited,Delivery,2017-02-02,2017-02-03,090130,120,Coaching Call 45 minutes,Personal Impact,Office,120#30
+944,FIL Research India Private Limited,Delivery,2017-02-01,2017-02-01,180134,141,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,141#34
+945,SRF Ltd.,Delivery,2017-01-30,2017-01-30,081217,129,Group Coaching Session -In Person,Leading the Way,Gurgaon,129#17
+946,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-30,2017-01-30,091219,123,Coaching Call 45 minutes,Leading the Way,Phone,123#19
+947,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-30,2017-01-30,091219,125,Coaching Call 45 minutes,Leading the Way,Phone,125#19
+948,SRF Ltd.,Delivery,2017-01-24,2017-01-25,281113,64,,,Gurgaon,64#13
+949,SRF Ltd.,Delivery,2017-01-24,2017-01-25,281113,65,Learning Material / Handout & Folders,ACE Team,Gurgaon,65#13
+950,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-25,2017-01-25,091219,114,Coaching Call 45 minutes,Leading the Way,Phone,114#19
+951,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-25,2017-01-25,091219,124,Coaching Call 45 minutes,Leading the Way,Phone,124#19
+952,McKinsey & Company,Delivery,2017-01-24,2017-01-24,011216,58,Workshop Full Day,LEAP,Mumbai,58#16
+953,Sumitomo Corporation,Delivery,2017-01-19,2017-01-20,281221,78,Workshop Full Day,Learning Agility Workshop,Gurgaon,78#21
+954,Sumitomo Corporation,Delivery,2017-01-19,2017-01-20,281221,79,Learning Material / Handout & Folders,Learning Agility Workshop,Gurgaon,79#21
+955,Sumitomo Corporation,Delivery,2017-01-19,2017-01-20,281221,80,Leading your Team,Book,Gurgaon,80#21
+956,FIL Research India Private Limited,Delivery,2017-01-20,2017-01-20,180134,122,Executive Coaching (90 Mins) in Person,Personal Impact,Gurgaon,122#34
+957,SRF Ltd.,Delivery,2017-01-18,2017-01-19,291223,82,Workshop Full Day,,Gurgaon,82#23
+958,SRF Ltd.,Delivery,2017-01-18,2017-01-19,291223,83,Learning Material / Handout & Folders,,Gurgaon,83#23
+959,SRF Ltd.,Delivery,2017-01-18,2017-01-19,291223,84,Ace Teams,Book,Gurgaon,84#23
+960,SRF Ltd.,Delivery,2017-01-18,2017-01-19,291223,85,Ace Teams,,Gurgaon,85#23
+961,SRF Ltd.,Delivery,2017-01-18,2017-01-19,291223,86,Trust Contract,,Gurgaon,86#23
+962,Mckinsey Knowledge Center,Delivery,2017-01-18,2017-01-18,211102,113,,Presenting with Presence,Gurgaon,113#2
+963,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-18,2017-01-18,090129,110,Workshop Full Day,Personal Impact,Chennai,110#29
+964,Nangia & Company,Delivery,2017-01-14,2017-01-14,281222,81,Workshop Full Day,Team Building,Manesar,81#22
+965,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-12,2017-01-13,221106,108,Workshop Full Day,Impact And Influence,Chennai,108#6
+966,Soprasteria India Pvt Ltd,Delivery,2017-01-12,2017-01-13,040125,94,Workshop Full Day,Personal Impact,Pune,94#25
+967,Soprasteria India Pvt Ltd,Delivery,2017-01-12,2017-01-13,040125,95,Learning Material / Handout & Folders,Personal Impact,Pune,95#25
+968,Soprasteria India Pvt Ltd,Delivery,2017-01-12,2017-01-13,040125,96,Leading your Team,,Pune,96#25
+969,American Express India Private Limited,Delivery,2017-01-11,2017-01-12,221107,101,Workshop Full Day,Impact And Influence,Gurgaon,101#7
+970,Mckinsey Knowledge Center,Delivery,2017-01-11,2017-01-11,211102,107,,Presenting with Presence,Gurgaon,107#2
+971,SRF Ltd.,Delivery,2017-01-10,2017-01-11,081217,128,Coaching In Person (60 MIn),Vital leader,Gurgaon,128#17
+972,Cognizant Technology Solutions India Pvt Ltd,Delivery,2017-01-10,2017-01-11,091219,76,Workshop Full Day,Leading the Way,Chennai,76#19
+973,SRF Ltd.,Delivery,2017-01-09,2017-01-10,281113,59,Coaching In Person (60 MIn),Vital leader,Gurgaon,59#13
+974,Soprasteria India Pvt Ltd,Delivery,2017-01-06,2017-01-09,040125,97,Coaching Call 45 minutes,Personal Impact,Calls,97#25
+975,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-22,2016-12-23,221106,42,Workshop Full Day,Impact And Influence,Chennai,42#6
+976,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-22,2016-12-23,011214,52,Workshop Full Day,Impact And Influence,Chennai,52#14
+977,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-22,2016-12-23,081218,75,Workshop Full Day,Leading the Way,Bangalore,75#18
+978,Max Healthcare Institute Limited,Delivery,2016-12-16,2016-12-17,241112,49,Workshop Full Day,Impact And Influence,Gurgaon,49#12
+979,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-15,2016-12-16,221106,41,Workshop Full Day,Impact And Influence,Chennai,41#6
+980,American Express India Private Limited,Delivery,2016-12-15,2016-12-16,221107,51,Workshop Full Day,Impact And Influence,gurgaon,51#7
+981,SRF Ltd.,Delivery,2016-12-15,2016-12-16,081217,68,Workshop Full Day,Vital leader,Gurgaon,68#17
+982,SRF Ltd.,Delivery,2016-12-15,2016-12-16,081217,73,Learning Material / Handout & Folders,Vital leader,Gurgaon,73#17
+983,SRF Ltd.,Delivery,2016-12-15,2016-12-16,081217,74,,,Gurgaon,74#17
+984,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-08,2016-12-09,211105,40,Workshop Full Day,Impact And Influence,Pune,40#5
+985,Stryker India,Delivery,2016-12-07,2016-12-08,221110,45,Workshop Full Day,Presenting with Presence,Gurgaon,45#10
+986,Penguin Random House India Pvt Ltd,Delivery,2016-12-06,2016-12-06,080238,185,Workshop Full Day,People Leadership,Gurgaon,185#38
+987,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-05,2016-12-05,011215,53,Coaching Call 45 minutes,Leading the Way,Phone,53#15
+988,Cognizant Technology Solutions India Pvt Ltd,Delivery,2016-12-01,2016-12-02,211104,39,Workshop Full Day,Impact And Influence,Bangalore,39#4
+989,S. C. Johnson Products Pvt. Ltd.,Delivery,2016-12-02,2016-12-02,221109,44,Expresso Session within NCR,Team Building,Gurgaon,44#9
+990,SRF Ltd.,Delivery,2016-12-01,2016-12-02,281113,48,Workshop Full Day,Leading the Way,Gurgaon,48#13
+991,SRF Ltd.,Delivery,2016-12-01,2016-12-02,281113,66,Learning Material / Handout & Folders,Leading the Way,Gurgaon,66#13
+992,SRF Ltd.,Delivery,2016-12-01,2016-12-02,281113,67,Leading the Way,Book,Gurgaon,67#13
+993,Ericsson India Private Limited,Delivery,2016-11-24,2016-11-24,221108,43,Expresso Session outside NCR,The Wining Streak,Mumbai,43#8
+994,Mckinsey Knowledge Center,Delivery,2016-11-09,2016-11-09,211102,28,Coaching Call 45 minutes,Care,Gurgaon,28#2
+995,Penguin Random House India Pvt Ltd,Delivery,2016-10-17,2016-10-17,080238,183,Workshop Full Day,Visionary Leadership,Gurgaon,183#38
+996,Penguin Random House India Pvt Ltd,Delivery,2016-09-30,2016-09-30,080238,182,Workshop Full Day,Personal Impact,Gurgaon,182#38
+997,Penguin Random House India Pvt Ltd,Delivery,2016-09-29,2016-09-29,080238,181,Coaching Call 45 minutes,Personal Impact,Delhi,181#38
+998,Genpact India Private Limited,Delivery,2016-09-27,2016-09-29,140349,10,Coaching In Person (60 MIn),Dramatic shift,Delhi,10#49
+999,Penguin Random House India Pvt Ltd,Delivery,2016-09-19,2016-09-19,080238,184,Learning Material / Handout & Folders,The Leadership Journey,Gurgaon,184#38
+1000,Genpact India Private Limited,Delivery,2016-09-06,2016-09-08,140349,9,Ace Teams,Personal Impact,Delhi,9#49
+1001,Coca Cola India Private Limited,Discovery,2017-07-17,2017-07-19,160675,17,Discovery Meeting,Cards,noida,17#75
+1002,Groz Engineering Tools (P) Ltd., Groz Net Industries,Discovery,2017-07-11,2017-07-13,100781,15,Discovery Meeting,Building Your Team,noida,15#81
+1003,Coca Cola India Private Limited,Discovery,2017-07-03,2017-07-04,170789,16,Discovery Meeting,Campus to Corporate,noida,16#89
+1004,Genpact India Private Limited,Discovery,2017-05-22,2017-05-24,190565,10,ProgressIT,Online ,Hyderabad,10#65
+1005,Dunnhumby IT Services India Pvt. Ltd,Discovery,2017-05-22,2017-05-23,160564,9,ProgressIT,Online ,Gurgaon,9#64
+1006,Dunnhumby IT Services India Pvt. Ltd,Discovery,2017-05-09,2017-05-10,280459,8,ProgressIT,Online ,Gurgaon,8#59
+1007,Genpact India Private Limited,Discovery,2017-02-23,2017-02-23,090130,2,ProgressIT,Personal Impact,Hyderabad,2#30
+1008,Sumitomo Corporation,Discovery,2017-01-19,2017-01-20,281221,1,ProgressIT,Learning Agility Workshop,GURGAON,1#21

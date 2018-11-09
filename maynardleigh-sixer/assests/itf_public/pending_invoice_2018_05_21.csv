@@ -1,0 +1,86 @@
+Sl. No.,Client Name,Order type,Start Date,End Date,Order Id,Delivery Id,Product Name,Sub Product Name,Location Name,Internal Key,Resource Name,Invoice No
+1,GlaxoSmithKline,Design,2018-05-09,2018-05-09,0705196,77,Design Half Day,Leading Performance Through Change,Office,77#196,Vrinda Misra
+2,Edelweiss Financial Services Ltd.,Design,2018-05-02,2018-05-02,1909119,74,Design Half Day,Emerging Leaders: Collaboration,Delhi,74#119,Priyam Jain
+3,GlaxoSmithKline,Design,2018-04-27,2018-04-27,2404192,75,Design Half Day,Leading Performance Through Change,Office,75#192,Vrinda Misra
+4,FIL Research India Private Limited,Design,2018-04-26,2018-04-26,2704195,76,Design Half a day,ACE Team,Delhi NCR,76#195,Bharat Babbar
+5,GlaxoSmithKline,Design,2018-04-20,2018-04-20,1304190,73,Design Half Day,IN IT TOGETHER,Office,73#190,Vrinda Misra
+6,IT Fosters Testing,Design,2018-04-11,2018-04-11,190899,71,Design Full Day,Campus to Corporate,Office,71#99,
+7,Edelweiss Financial Services Ltd.,Design,2018-04-11,2018-04-11,1104188,72,Design Half Day,Disruptive Execution ,New Delhi ,72#188,Bharat Babbar
+8,HSBC Operations,Design,2018-04-06,2018-04-06,2103184,68,Design Half a day,JUICE,MLA Office,68#184,
+9,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-05-15,2018-05-16,0404185,1082,Workshop Full Day,Leading the Way,Chennai,1082#185,Anand Mittal
+10,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-05-15,2018-05-16,0404185,1083,Do It Now- How to engage talent ,Leading the Way,Chennai,1083#185,
+11,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-05-15,2018-05-16,0404185,1084,Learning Material / Handout & Folders,Leading the Way,Chennai,1084#185,
+12,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-05-15,2018-05-16,0404185,1085,Leading your Team,Leading the Way,Chennai,1085#185,
+13,IDFC Asset Management Company Ltd,Delivery,2018-05-11,2018-05-11,2112157,951,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 7,Mumbai,951#157,
+14,NIIT Technologies Ltd,Delivery,2018-05-11,2018-05-11,1001160,1150,Workshop Full Day,Communicating with Impact,Noida,1150#160,Anand Mittal
+15,NIIT Technologies Ltd,Delivery,2018-05-11,2018-05-11,1001160,1151,Certificate,Communicating with Impact,Noida,1151#160,
+16,NIIT Technologies Ltd,Delivery,2018-05-11,2018-05-11,1001160,1152,Learning Material / Handout & Folders,Communicating with Impact,Noida,1152#160,
+17,JLT India,Delivery,2018-05-09,2018-05-09,0805197,1146,Workshop Full Day,Effective Conversations ,Mumbai ,1146#197,Steeve Gupta
+18,JLT India,Delivery,2018-05-09,2018-05-09,0805197,1147,Learning Material / Handout & Folders,Effective Conversations ,Mumbai ,1147#197,
+19,JLT India,Delivery,2018-05-09,2018-05-09,0805197,1148,Certificate,Effective Conversations ,Mumbai ,1148#197,
+20,Delhivery,Delivery,2018-05-07,2018-05-07,0702170,1131,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 7,Gurgaon,1131#170,Vivek Arora
+21,IDFC Asset Management Company Ltd,Delivery,2018-05-03,2018-05-03,2112157,949,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 5,Mumbai,949#157,Vivek Arora
+22,Schneider Electric India Pvt Ltd,Delivery,2018-05-03,2018-05-03,2504194,1127,Workshop  Half Day Outside Delhi NCR,Personal Impact,Bangalore,1127#194,Steeve Gupta
+23,Schneider Electric India Pvt Ltd,Delivery,2018-05-03,2018-05-03,2504194,1128,Learning Material / Handout & Folders,Personal Impact,Bangalore,1128#194,
+24,GlaxoSmithKline,Delivery,2018-05-02,2018-05-02,2404192,1118,Workshop Full Day,Leading Performance Through Change,Gurgaon,1118#192,Vrinda Misra
+25,GlaxoSmithKline,Delivery,2018-05-02,2018-05-02,2404192,1120,Learning Material / Handout & Folders,Leading Performance Through Change,Gurgaon,1120#192,
+26,FIL Research India Private Limited,Delivery,2018-04-30,2018-04-30,2704195,1129,Workshop  Half Day Within Delhi NCR,ACE Team,Delhi,1129#195,Bharat Babbar
+27,FIL Research India Private Limited,Delivery,2018-04-30,2018-04-30,2704195,1130,Learning Material / Handout & Folders,ACE Team,Delhi,1130#195,
+28,Delhivery,Delivery,2018-04-27,2018-04-27,0702170,1109,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 6,Gurgaon,1109#170,Vivek Arora
+29,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1072,Leading your Team,Leading the Way,Pune,1072#185,
+30,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1073,Learning Material / Handout & Folders,Leading the Way,Pune,1073#185,
+31,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1074,Do It Now- How to engage talent ,Leading the Way,Pune,1074#185,
+32,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-26,2018-04-27,0404185,1075,Workshop Full Day,Leading the Way,Pune,1075#185,
+33,GlaxoSmithKline,Delivery,2018-04-26,2018-04-26,1304190,1105,Workshop  Half Day Outside Delhi NCR,IN IT TOGETHER,Nainital,1105#190,Steeve Gupta
+34,GlaxoSmithKline,Delivery,2018-04-26,2018-04-26,1304190,1106,Learning Material / Handout & Folders,IN IT TOGETHER,Nainital,1106#190,
+35,JSW Steel Limited,Delivery,2018-04-24,2018-04-25,0301159,1079,Learning Material / Handout & Folders,Leadership Impact,Tarapur  Maharashtra,1079#159,
+36,JSW Steel Limited,Delivery,2018-04-24,2018-04-25,0301159,1081,Workshop Full Day,Leadership Impact,Tarapur  Maharashtra,1081#159,Nitten Mahadik
+37,HSBC Operations,Delivery,2018-04-23,2018-04-25,2103184,1066,Workshop Full Day,JUICE,Bangalore,1066#184,
+38,HSBC Operations,Delivery,2018-04-23,2018-04-25,2103184,1067,Certificate,JUICE,Bangalore,1067#184,
+39,HSBC Operations,Delivery,2018-04-23,2018-04-25,2103184,1068,Learning Material / Handout & Folders,JUICE,Bangalore,1068#184,
+40,GlaxoSmithKline,Delivery,2018-04-24,2018-04-24,2709125,749,Implementation Day,Personal Impact,Gurgaon,749#125,
+41,Edelweiss Financial Services Ltd.,Delivery,2018-04-23,2018-04-23,1909119,1112,Assessment Meter,Emerging Leaders: Collaboration,Delhi,1112#119,
+42,JSW Steel Limited,Delivery,2018-04-19,2018-04-20,0301159,1078,Learning Material / Handout & Folders,Leadership Impact,Tarapur  Maharashtra,1078#159,
+43,JSW Steel Limited,Delivery,2018-04-19,2018-04-20,0301159,1080,Workshop Full Day,Leadership Impact,Tarapur  Maharashtra,1080#159,Nitten Mahadik
+44,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1052,Workshop Full Day,Leading the Way,Coimbatore,1052#180,Anand Mittal
+45,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1053,Do It Now- How to engage talent ,Leading the Way,Coimbatore,1053#180,
+46,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1054,Learning Material / Handout & Folders,Leading the Way,Coimbatore,1054#180,
+47,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-19,2018-04-20,1403180,1055,Leading your Team,Leading the Way,Coimbatore,1055#180,
+48,RBS,Delivery,2018-04-20,2018-04-20,0404186,1103,Expresso Session within NCR,Voice Master - use tone  pitch & pace to communicate more impact fully,Gurgaon - Video Conferencing,1103#186,Bharat Babbar
+49,RBS,Delivery,2018-04-20,2018-04-20,0404186,1104,Expresso Session within NCR,Communicating with Courage & Consideration,Gurgaon - Webinar,1104#186,Bharat Babbar
+50,RBS,Delivery,2018-04-19,2018-04-19,0404186,1101,Expresso Session within NCR,Less is more,Gurgaon - Webinar,1101#186,Bharat Babbar
+51,RBS,Delivery,2018-04-19,2018-04-19,0404186,1102,Expresso Session within NCR,Communicating effectively with Millennial - Panel Induction with external industry leader ,Gurgaon,1102#186,Steeve Gupta
+52,GlaxoSmithKline,Delivery,2018-04-18,2018-04-18,0603172,1021,Expresso Session within NCR,Body Language,Gurgaon,1021#172,
+53,RBS,Delivery,2018-04-18,2018-04-18,0404186,1100,Expresso Session within NCR,Stage Fright - Butterflies in formation,Mumbai,1100#186,Nitten Mahadik
+54,GlaxoSmithKline,Delivery,2018-04-17,2018-04-17,0603172,1020,Expresso Session within NCR,Storytelling,Gurgaon,1020#172,
+55,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1045,Workshop Full Day,IN IT TOGETHER,Goa,1045#179,Anand Mittal
+56,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1046,Learning Material / Handout & Folders,IN IT TOGETHER,Gurgaon,1046#179,
+57,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1047,Certificate,IN IT TOGETHER,Gurgaon,1047#179,
+58,MaxLife Insurance Company Ltd.,Delivery,2018-04-16,2018-04-17,1203179,1048,Trust Contract,IN IT TOGETHER,Gurgaon,1048#179,
+59,RBS,Delivery,2018-04-17,2018-04-17,0404186,1098,Expresso Session within NCR,Voice Master - use tone  pitch & pace to communicate more impact fully,Gurgaon - Video Conferencing,1098#186,Bharat Babbar
+60,RBS,Delivery,2018-04-17,2018-04-17,0404186,1099,Expresso Session within NCR,Communicating with Courage & Consideration,Gurgaon - Webinar,1099#186,Bharat Babbar
+61,Delhivery,Delivery,2018-04-16,2018-04-16,0702170,1077,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 5,Gurgaon,1077#170,Vivek Arora
+62,GlaxoSmithKline,Delivery,2018-04-16,2018-04-16,0603172,1019,Expresso Session within NCR,Assertiveness,Gurgaon,1019#172,Priyam Jain
+63,RBS,Delivery,2018-04-16,2018-04-16,0404186,1096,Expresso Session within NCR,Speech Master - impromptu speech competition,Gurgaon,1096#186,Vrinda Misra
+64,RBS,Delivery,2018-04-16,2018-04-16,0404186,1097,Expresso Session within NCR,Once Upon a Time - Make Engaging Business Presentation  using the art of story telling,Gurgaon - Video Conferencing,1097#186,Vrinda Misra
+65,MaxLife Insurance Company Ltd.,Delivery,2018-04-15,2018-04-15,1203179,1132,Sunday Travel,IN IT TOGETHER,Delhi-Mumbai,1132#179,
+66,Edelweiss Financial Services Ltd.,Delivery,2018-04-14,2018-04-14,1104188,1093,Workshop  Half Day Outside Delhi NCR,Disruptive Execution ,Mumbai,1093#188,Bharat Babbar
+67,Edelweiss Financial Services Ltd.,Delivery,2018-04-14,2018-04-14,1104188,1095,Learning Material / Handout & Folders,Disruptive Execution ,Mumbai ,1095#188,
+68,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1023,Workshop Full Day,Presenting with Presence,Gurgaon,1023#173,Anand Mittal
+69,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1024,Perfect Presentation,Book,Gurgaon,1024#173,
+70,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1025,Learning Material / Handout & Folders,Presenting with Presence,Gurgaon,1025#173,
+71,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1026,Certificate,Presenting with Presence,Gurgaon,1026#173,
+72,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1043,Do It Now-  How to Present,Cards,Gurgaon,1043#173,
+73,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1044,Stage Management,Presenting with Presence,Gurgaon,1044#173,
+74,GlaxoSmithKline,Delivery,2018-04-12,2018-04-13,0603173,1069,Pen Drive,Presenting with Presence,Gurgaon,1069#173,
+75,Edelweiss Financial Services Ltd.,Delivery,2018-04-13,2018-04-13,1104188,1094,Workshop Full Day,Disruptive Execution ,Mumbai ,1094#188,Nitten Mahadik
+76,IDFC Asset Management Company Ltd,Delivery,2018-04-09,2018-04-09,2112157,948,Executive Coaching (90 Mins) in Person (if 3 is done in a day),Session 4,Mumbai,948#157,Vivek Arora
+77,HSBC Global Financial Centre,Delivery,2018-04-05,2018-04-06,0903175,1035,Coaching Call 45 minutes,Personal Impact,On-call,1035#175,Anand Mittal
+78,Delhivery,Delivery,2018-04-05,2018-04-05,0809112,1065,In Person Coaching Session (90 minutes),Vital leader,Gurgaon,1065#112,Vivek Arora
+79,Delhivery,Delivery,2018-04-05,2018-04-05,0702170,1070,Executive Coaching (90 Mins) in Person (if 1 is done in a day),Session 4,Gurgaon,1070#170,Vivek Arora
+80,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-04,2018-04-04,0612153,914,Group Coaching Call (60 Min),Leading the Way,On call,914#153,
+81,GlaxoSmithKline,Delivery,2018-04-04,2018-04-04,2003183,1063,Expresso Session outside NCR,Personal Impact,Hyderabad,1063#183,Anand Mittal
+82,GlaxoSmithKline,Delivery,2018-04-03,2018-04-04,2003183,1064,Learning Material / Handout & Folders,Personal Impact,Gurgaon,1064#183,
+83,Edelweiss Financial Services Ltd.,Delivery,2018-04-02,2018-04-03,2410134,798,Coaching Call 45 minutes,Personal Impact,On Call,798#134,Steeve Gupta
+84,Cognizant Technology Solutions India Pvt Ltd,Delivery,2018-04-03,2018-04-03,0612153,913,Group Coaching Call (60 Min),Leading the Way,On call,913#153,
+85,GlaxoSmithKline,Delivery,2018-04-03,2018-04-03,2003183,1062,Expresso Session within NCR,Personal Impact,Gurgaon,1062#183,Priyam Jain

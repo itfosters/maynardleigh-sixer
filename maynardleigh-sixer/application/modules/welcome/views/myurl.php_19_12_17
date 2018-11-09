@@ -1,0 +1,81 @@
+<?php //echo "<pre>";print_r($itfdata);die;?>
+<div class="row">
+    <div class="col-md-12">
+
+        <h4>URL is : <h4><h3><?php echo isset($itfdata['url_value']) ?$itfdata['url_value']: '';?></h3>
+    </div> 
+</div>
+<div class="row">
+
+<!-- <div class="clearfix"></div> -->
+  <!-- Trigger the modal with a button -->
+<div class="table-responsive">
+<div id="accordion" role="tablist" aria-multiselectable="true">
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne"> </a>
+         <div role="button"  class="thead-inverse deal">
+  <?php if (isset($itfdata['alldata']) && count($itfdata['alldata'])>0) { ?>
+          <div class="table-responsive">
+  <table class="table table-striped table-bordered table-hover" summary="">
+        <thead class="thead-inverse">
+            
+            <tr>
+                <!--<th><input type="checkbox" name="" id="selecctall" value="1" title="Select All"></th>-->
+                <th>S.No</th>
+                <th>Name</th>
+                <th>Mobile No </th>
+                <th>Email</th>
+                <th>Comments</th>
+                <th>Trainer</th>
+                <th>Concept</th>
+                <th>Content</th>
+                <th>Workshop Overall Score</th>
+                 
+            </tr>  
+          
+          </thead>
+          <tbody>
+            <?php
+             foreach ($itfdata['alldata'] as $key => $value) {?>
+              <tr>
+              <td class="colors"><?php echo $key+1;?></td>
+              <td class="colors"><?php echo $value->name;?></td>
+              <td class="colors"><?php echo $value->mobile_no;?></td>
+              <td class="colors"><?php echo $value->email_id;?></td>
+              <td class="colors"><?php echo $value->feedback;?></td>
+              <td class="colors"><?php echo $value->trainer;?></td>
+              <td class="colors"><?php echo $value->concept;?></td>
+              <td class="colors"><?php echo $value->content;?></td>
+              <td class="colors"><?php echo $value->workshop_overall_score;?></td>
+              
+          </tr>
+           <?php  }?>
+         </tbody>
+       </table>
+        <?php ///echo $links ; ?>
+        <?php }else{?>
+        
+                  <div class="page-head-line"></div>
+                  <div class="notfound_text">Sorry!</div>
+                  <div class="norecordfound">No Comments Available</div>
+        <?php } ?>
+        </div>
+        
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+  <script type="text/javascript">
+             $(document).ready(function(){
+
+            $('#clock').on('click', function() {
+              //alert('hello');
+            $('#modal').show('1000');
+            //$('#modal').css('z-index', '1500');
+            });
+           
+        });
+      </script>
+  
+  
